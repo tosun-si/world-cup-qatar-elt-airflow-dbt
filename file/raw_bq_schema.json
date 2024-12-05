@@ -1,0 +1,92 @@
+[
+  {
+    "name": "brandSponsorAndUsed",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "totalDuelsWonPerNinety",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "dribblesPerNinety",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "club",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "assistsProvided",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "savePercentage",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "interceptionsPerNinety",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "fifaRanking",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "appearances",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "goalsScored",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "position",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "playerName",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "cleanSheets",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "nationalTeamKitSponsor",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "tacklesPerNinety",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "nationalTeamJerseyNumber",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "playerDob",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  },
+  {
+    "name": "nationality",
+    "type": "STRING",
+    "mode": "NULLABLE"
+  }
+]

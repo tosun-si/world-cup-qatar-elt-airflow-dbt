@@ -1,0 +1,6106 @@
+[
+  {
+    "teamName": "Saudi Arabia",
+    "teamTotalGoals": 3,
+    "fifaRanking": 49,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Salem Al-Dawsari",
+          "playerDob": "Aug 19, 1991",
+          "position": "MF",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Firas Al-Buraikan",
+          "playerDob": "May 14, 2000",
+          "position": "FW",
+          "club": "Al-Fateh",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Salem Al-Dawsari",
+          "playerDob": "Aug 19, 1991",
+          "position": "MF",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "2.33"
+    },
+    "goalKeeper": {
+      "playerName": "Mohammed Al-Owais",
+      "appearances": "3",
+      "savePercentage": "73.68%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Mohammed Al-Owais",
+          "playerDob": "Oct 10, 1991",
+          "position": "GK",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ali Al-Bulaihi",
+          "playerDob": "Nov 21, 1989",
+          "position": "DF",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Sultan Al-Ghanam",
+          "playerDob": "May 6, 1994",
+          "position": "DF",
+          "club": "Al-Nassr",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Saud Abdulhamid",
+          "playerDob": "Jul 18, 1999",
+          "position": "DF",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Abdulelah Al-Amri",
+          "playerDob": "Jan 15, 1997",
+          "position": "DF",
+          "club": "Al-Nassr",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Salem Al-Dawsari",
+          "playerDob": "Aug 19, 1991",
+          "position": "MF",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Firas Al-Buraikan",
+          "playerDob": "May 14, 2000",
+          "position": "FW",
+          "club": "Al-Fateh",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Saleh Al-Shehri",
+          "playerDob": "Nov 1, 1993",
+          "position": "FW",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Saleh Al-Shehri",
+          "playerDob": "Nov 1, 1993",
+          "position": "FW",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "duels": "8.00"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Yasser Al-Shahrani",
+          "playerDob": "May 25, 1992",
+          "position": "DF",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "interceptions": "6.00"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Yasser Al-Shahrani",
+          "playerDob": "May 25, 1992",
+          "position": "DF",
+          "club": "Al-Hilal",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "3.00"
+    }
+  },
+  {
+    "teamName": "Mexico ",
+    "teamTotalGoals": 2,
+    "fifaRanking": 15,
+    "nationalTeamKitSponsor": "Adidas",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Luis Chavez",
+          "playerDob": "Jan 15, 1996",
+          "position": "MF",
+          "club": "Pachuca",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Henry Martin",
+          "playerDob": "Nov 18, 1992",
+          "position": "FW",
+          "club": "America",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Cesar Montes",
+          "playerDob": "Feb 24, 1997",
+          "position": "DF",
+          "club": "Monterrey",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Kevin Alvarez",
+          "playerDob": "Jan 15, 1999",
+          "position": "DF",
+          "club": "Pachuca",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "dribbles": "3.86"
+    },
+    "goalKeeper": {
+      "playerName": "Guillermo Ochoa",
+      "appearances": "3",
+      "savePercentage": "50%",
+      "cleanSheets": "33%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Guillermo Ochoa",
+          "playerDob": "Jul 13, 1985",
+          "position": "GK",
+          "club": "America",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Hector Moreno",
+          "playerDob": "Jan 17, 1988",
+          "position": "DF",
+          "club": "Monterrey",
+          "brandSponsorAndUsed": "Charly",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jesus Gallardo",
+          "playerDob": "Aug 15, 1994",
+          "position": "DF",
+          "club": "Monterrey",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Cesar Montes",
+          "playerDob": "Feb 24, 1997",
+          "position": "DF",
+          "club": "Monterrey",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Hector Herrera",
+          "playerDob": "Apr 19, 1990",
+          "position": "MF",
+          "club": "Houston Dynamo",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Uriel Antuna",
+          "playerDob": "Aug 21, 1997",
+          "position": "MF",
+          "club": "Cruz Azul",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Alexis Vega",
+          "playerDob": "Nov 25, 1997",
+          "position": "MF",
+          "club": "Guadalajara",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Luis Chavez",
+          "playerDob": "Jan 15, 1996",
+          "position": "MF",
+          "club": "Pachuca",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Raul Jimenez",
+          "playerDob": "May 5, 1991",
+          "position": "FW",
+          "club": "Wolves",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Hirving Lozano",
+          "playerDob": "Jul 30, 1995",
+          "position": "FW",
+          "club": "Napoli",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Edson Alvarez",
+          "playerDob": "Oct 24, 1997",
+          "position": "MF",
+          "club": "Ajax",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "duels": "13.29"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Erick Gutierrez",
+          "playerDob": "Jun 15, 1995",
+          "position": "MF",
+          "club": "PSV",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "interceptions": "3.75"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Andres Guardado",
+          "playerDob": "Sep 28, 1986",
+          "position": "MF",
+          "club": "Real Betis",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "8.57"
+    }
+  },
+  {
+    "teamName": "Morocco ",
+    "teamTotalGoals": 6,
+    "fifaRanking": 11,
+    "nationalTeamKitSponsor": "Puma",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Youssef En-Nesyri",
+          "playerDob": "Jun 1, 1997",
+          "position": "FW",
+          "club": "Sevilla",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Yahia Attiyat Allah",
+          "playerDob": "Mar 2, 1995",
+          "position": "DF",
+          "club": "Wydad AC",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "6"
+        },
+        {
+          "playerName": "Hakim Ziyech",
+          "playerDob": "Mar 19, 1993",
+          "position": "FW",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Achraf Hakimi",
+          "playerDob": "Nov 4, 1998",
+          "position": "DF",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Abderrazak Hamdallah",
+          "playerDob": "Dec 17, 1990",
+          "position": "FW",
+          "club": "Al-Ittihad",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "dribbles": "4.22"
+    },
+    "goalKeeper": {
+      "playerName": "Yassine Bounou",
+      "appearances": "6",
+      "savePercentage": "58.33%",
+      "cleanSheets": "50%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Sofyan Amrabat",
+          "playerDob": "Aug 21, 1996",
+          "position": "MF",
+          "club": "Fiorentina",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Selim Amallah",
+          "playerDob": "Nov 15, 1996",
+          "position": "MF",
+          "club": "Standard Liege",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Azzedine Ounahi",
+          "playerDob": "Apr 19, 2000",
+          "position": "MF",
+          "club": "Angers",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Hakim Ziyech",
+          "playerDob": "Mar 19, 1993",
+          "position": "FW",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Sofiane Boufal",
+          "playerDob": "Sep 17, 1993",
+          "position": "FW",
+          "club": "Angers",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Youssef En-Nesyri",
+          "playerDob": "Jun 1, 1997",
+          "position": "FW",
+          "club": "Sevilla",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Achraf Hakimi",
+          "playerDob": "Nov 4, 1998",
+          "position": "DF",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "appearances": "7"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Youssef En-Nesyri",
+          "playerDob": "Jun 1, 1997",
+          "position": "FW",
+          "club": "Sevilla",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "duels": "8.23"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Achraf Dari",
+          "playerDob": "May 6, 1999",
+          "position": "DF",
+          "club": "Brest",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "2.89"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Achraf Hakimi",
+          "playerDob": "Nov 4, 1998",
+          "position": "DF",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "successfulTackles": "3.84"
+    }
+  },
+  {
+    "teamName": "Netherlands ",
+    "teamTotalGoals": 10,
+    "fifaRanking": 6,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Cody Gakpo",
+          "playerDob": "May 7, 1999",
+          "position": "FW",
+          "club": "PSV",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "5"
+        }
+      ],
+      "goals": "3"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Denzel Dumfries",
+          "playerDob": "Apr 18, 1996",
+          "position": "DF",
+          "club": "Inter",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Davy Klaassen",
+          "playerDob": "February 21, 1993",
+          "position": "MF",
+          "club": "Ajax",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "2"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Memphis Depay",
+          "playerDob": "Feb 13, 1994",
+          "position": "FW",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "2"
+        }
+      ],
+      "dribbles": "3.88"
+    },
+    "goalKeeper": {
+      "playerName": "Andries Noppert",
+      "appearances": "5",
+      "savePercentage": "81.82%",
+      "cleanSheets": "40%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Andries Noppert",
+          "playerDob": "Apr 7, 1994",
+          "position": "GK",
+          "club": "Heerenveen",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Daley Blind",
+          "playerDob": "Mar 9, 1990",
+          "position": "DF",
+          "club": "Ajax",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Virgil van Dijk",
+          "playerDob": "Jul 8, 1991",
+          "position": "DF",
+          "club": "Liverpool",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Denzel Dumfries",
+          "playerDob": "Apr 18, 1996",
+          "position": "DF",
+          "club": "Inter",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Nathan Ake",
+          "playerDob": "Feb 18, 1995",
+          "position": "DF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Frenkie de Jong",
+          "playerDob": "May 12, 1997",
+          "position": "MF",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Maarten de Roon",
+          "playerDob": "Mar 29, 1991",
+          "position": "MF",
+          "club": "Atalanta",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Teun Koopmeiners",
+          "playerDob": "Feb 28, 1998",
+          "position": "MF",
+          "club": "Atalanta",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Cody Gakpo",
+          "playerDob": "May 7, 1999",
+          "position": "FW",
+          "club": "PSV",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "5"
+        }
+      ],
+      "appearances": "5"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Luuk de Jong",
+          "playerDob": "Aug 27, 1990",
+          "position": "FW",
+          "club": "PSV",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "duels": "14.46"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Xavi Simons",
+          "playerDob": "Apr 21, 2003",
+          "position": "MF",
+          "club": "PSV",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Noa Lang",
+          "playerDob": "Jun 17, 1999",
+          "position": "FW",
+          "club": "Club Brugge",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "interceptions": "12.86"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Teun Koopmeiners",
+          "playerDob": "Feb 28, 1998",
+          "position": "MF",
+          "club": "Atalanta",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        }
+      ],
+      "successfulTackles": "4.15"
+    }
+  },
+  {
+    "teamName": "Wales",
+    "teamTotalGoals": 1,
+    "fifaRanking": 28,
+    "nationalTeamKitSponsor": "Adidas",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Gareth Bale",
+          "playerDob": "Jul 16, 1989",
+          "position": "FW",
+          "club": "Los Angeles FC",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Ben Davies",
+          "playerDob": "April 24, 1993",
+          "position": "DF",
+          "club": "Tottenham",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Joe Rodon",
+          "playerDob": "Oct 22, 1997",
+          "position": "DF",
+          "club": "Rennes",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Chris Mepham",
+          "playerDob": "Nov 5, 1997",
+          "position": "DF",
+          "club": "Bournemouth",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ethan Ampadu",
+          "playerDob": "Sept 14, 2000",
+          "position": "DF",
+          "club": "Spezia",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Neco Williams",
+          "playerDob": "April 13, 2001",
+          "position": "DF",
+          "club": "Nottingham Forest",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Connor Roberts",
+          "playerDob": "Sept 23, 1995",
+          "position": "DF",
+          "club": "Burnley",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Sorba Thomas",
+          "playerDob": "Jan 25, 1999",
+          "position": "MF",
+          "club": "Huddersfield Town",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Joe Allen",
+          "playerDob": "Mar 14, 2000",
+          "position": "MF",
+          "club": "Swansea City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Harry Wilson",
+          "playerDob": "Mar 22, 1997",
+          "position": "MF",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Joe Morrell",
+          "playerDob": "Jan 3, 1997",
+          "position": "MF",
+          "club": "Portsmouth",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Aaron Ramsey",
+          "playerDob": "Dec 26, 1990",
+          "position": "MF",
+          "club": "Nice",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Rubin Colwill",
+          "playerDob": "Apr 27, 2000",
+          "position": "FW",
+          "club": "Cardiff City",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Gareth Bale",
+          "playerDob": "Jul 16, 1989",
+          "position": "FW",
+          "club": "Los Angeles FC",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Kieffer Moore",
+          "playerDob": "Aug 8, 1992",
+          "position": "FW",
+          "club": "Bournemouth",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Brennan Johnson",
+          "playerDob": "May 23, 2001",
+          "position": "FW",
+          "club": "Nottingham Forest",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Dan James",
+          "playerDob": "Nov 10, 1997",
+          "position": "FW",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "0"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Brennan Johnson",
+          "playerDob": "May 23, 2001",
+          "position": "FW",
+          "club": "Nottingham Forest",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "4.00"
+    },
+    "goalKeeper": {
+      "playerName": "Wayne Hennessey",
+      "appearances": "2",
+      "savePercentage": "83.33%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Ben Davies",
+          "playerDob": "April 24, 1993",
+          "position": "DF",
+          "club": "Tottenham",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Joe Rodon",
+          "playerDob": "Oct 22, 1997",
+          "position": "DF",
+          "club": "Rennes",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Chris Mepham",
+          "playerDob": "Nov 5, 1997",
+          "position": "DF",
+          "club": "Bournemouth",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ethan Ampadu",
+          "playerDob": "Sept 14, 2000",
+          "position": "DF",
+          "club": "Spezia",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Neco Williams",
+          "playerDob": "April 13, 2001",
+          "position": "DF",
+          "club": "Nottingham Forest",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Connor Roberts",
+          "playerDob": "Sept 23, 1995",
+          "position": "DF",
+          "club": "Burnley",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Harry Wilson",
+          "playerDob": "Mar 22, 1997",
+          "position": "MF",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Aaron Ramsey",
+          "playerDob": "Dec 26, 1990",
+          "position": "MF",
+          "club": "Nice",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Gareth Bale",
+          "playerDob": "Jul 16, 1989",
+          "position": "FW",
+          "club": "Los Angeles FC",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Kieffer Moore",
+          "playerDob": "Aug 8, 1992",
+          "position": "FW",
+          "club": "Bournemouth",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Brennan Johnson",
+          "playerDob": "May 23, 2001",
+          "position": "FW",
+          "club": "Nottingham Forest",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Dan James",
+          "playerDob": "Nov 10, 1997",
+          "position": "FW",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Kieffer Moore",
+          "playerDob": "Aug 8, 1992",
+          "position": "FW",
+          "club": "Bournemouth",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "duels": "10.85"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Joe Morrell",
+          "playerDob": "Jan 3, 1997",
+          "position": "MF",
+          "club": "Portsmouth",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "interceptions": "2.90"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Chris Mepham",
+          "playerDob": "Nov 5, 1997",
+          "position": "DF",
+          "club": "Bournemouth",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "successfulTackles": "2.33"
+    }
+  },
+  {
+    "teamName": "Costa Rica",
+    "teamTotalGoals": 2,
+    "fifaRanking": 32,
+    "nationalTeamKitSponsor": "New Balance",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Yeltsin Tejeda",
+          "playerDob": "Mar 17, 1992",
+          "position": "MF",
+          "club": "Herediano",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Keysher Fuller",
+          "playerDob": "Jul 12, 1994",
+          "position": "DF",
+          "club": "Herediano",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Yeltsin Tejeda",
+          "playerDob": "Mar 17, 1992",
+          "position": "MF",
+          "club": "Herediano",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Yeltsin Tejeda",
+          "playerDob": "Mar 17, 1992",
+          "position": "MF",
+          "club": "Herediano",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "33.00"
+    },
+    "goalKeeper": {
+      "playerName": "Keylor Navas",
+      "appearances": "3",
+      "savePercentage": "50%",
+      "cleanSheets": "33%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Celso Borges",
+          "playerDob": "May 27, 1988",
+          "position": "MF",
+          "club": "Alajuelense",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Yeltsin Tejeda",
+          "playerDob": "Mar 17, 1992",
+          "position": "MF",
+          "club": "Herediano",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jewison Bennette",
+          "playerDob": "Jun 15, 2004",
+          "position": "MF",
+          "club": "Sunderland",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Brandon Aguilera",
+          "playerDob": "Jun 28, 2003",
+          "position": "MF",
+          "club": "Nottingham Forest",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Joel Campbell",
+          "playerDob": "Jun 26, 1992",
+          "position": "FW",
+          "club": "Leon",
+          "brandSponsorAndUsed": "Pima",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Anthony Contreras",
+          "playerDob": "Jan 29, 2000",
+          "position": "FW",
+          "club": "Herediano",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Keylor Navas",
+          "playerDob": "Dec 15, 1986",
+          "position": "GK",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Oscar Duarte",
+          "playerDob": "Jun 3, 1989",
+          "position": "DF",
+          "club": "Al-Wehda",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Kendall Waston",
+          "playerDob": "Jan 1, 1988",
+          "position": "DF",
+          "club": "Aprissa",
+          "brandSponsorAndUsed": "New Balance",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Keysher Fuller",
+          "playerDob": "Jul 12, 1994",
+          "position": "DF",
+          "club": "Herediano",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Joel Campbell",
+          "playerDob": "Jun 26, 1992",
+          "position": "FW",
+          "club": "Leon",
+          "brandSponsorAndUsed": "Pima",
+          "appearances": "3"
+        }
+      ],
+      "duels": "12.00"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Oscar Duarte",
+          "playerDob": "Jun 3, 1989",
+          "position": "DF",
+          "club": "Al-Wehda",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "2.33"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Anthony Contreras",
+          "playerDob": "Jan 29, 2000",
+          "position": "FW",
+          "club": "Herediano",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "successfulTackles": "3.57"
+    }
+  },
+  {
+    "teamName": "Cameroon",
+    "teamTotalGoals": 4,
+    "fifaRanking": 33,
+    "nationalTeamKitSponsor": "One All Sports",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Vincent Aboubakar",
+          "playerDob": "Jan 22, 1992",
+          "position": "FW",
+          "club": "Al-Nassr",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Jean Charles Castelletto",
+          "playerDob": "Jan 26, 1995",
+          "position": "DF",
+          "club": "Nantes",
+          "brandSponsorAndUsed": "",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Vincent Aboubakar",
+          "playerDob": "Jan 22, 1992",
+          "position": "FW",
+          "club": "Al-Nassr",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Christian Bassogog",
+          "playerDob": "Oct 18, 1995",
+          "position": "FW",
+          "club": "Shanghai Shenhua",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "dribbles": "4.00"
+    },
+    "goalKeeper": {
+      "playerName": "Andre Onana",
+      "appearances": "1",
+      "savePercentage": "66.67%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Collins Fai",
+          "playerDob": "Aug 13, 1992",
+          "position": "DF",
+          "club": "Al-Tai",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Nouhou Tolo",
+          "playerDob": "Jun 23, 1997",
+          "position": "DF",
+          "club": "Seattle Sounders",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Andre-Frank Zambo Anguissa",
+          "playerDob": "Nov 16, 1995",
+          "position": "MF",
+          "club": "Napoli",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Vincent Aboubakar",
+          "playerDob": "Jan 22, 1992",
+          "position": "FW",
+          "club": "Al-Nassr",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Karl Toko Ekambi",
+          "playerDob": "Sep 14, 1992",
+          "position": "FW",
+          "club": "Lyon",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Eric Maxim Choupo-Moting",
+          "playerDob": "Mar 23, 1989",
+          "position": "FW",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Eric Maxim Choupo-Moting",
+          "playerDob": "Mar 23, 1989",
+          "position": "FW",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        }
+      ],
+      "duels": "10.63"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Gael Ondoua",
+          "playerDob": "Nov 4, 1995",
+          "position": "MF",
+          "club": "Hannover",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "2"
+        }
+      ],
+      "interceptions": "4.00"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Enzo Ebosse",
+          "playerDob": "Mar 11, 1999",
+          "position": "DF",
+          "club": "Udinese",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Gael Ondoua",
+          "playerDob": "Nov 4, 1995",
+          "position": "MF",
+          "club": "Hannover",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "2"
+        }
+      ],
+      "successfulTackles": "4.00"
+    }
+  },
+  {
+    "teamName": "South Korea",
+    "teamTotalGoals": 3,
+    "fifaRanking": 25,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Kim Young-gwon",
+          "playerDob": "February 27, 1990",
+          "position": "DF",
+          "club": "Ulsan Hyundai",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Paik Seung-ho",
+          "playerDob": "March 17, 1997",
+          "position": "MF",
+          "club": "Jeonbuk Hyundai Motors",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Hwang Hee-chan",
+          "playerDob": "January 26, 1996",
+          "position": "FW",
+          "club": "Wolverhampton Wanderers",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Kim Jin-su",
+          "playerDob": "June 13, 1992",
+          "position": "DF",
+          "club": "Jeonbuk Hyundai Motors",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Lee Kang-in",
+          "playerDob": "February 19, 2001",
+          "position": "MF",
+          "club": "Mallorca",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Son Heung-min",
+          "playerDob": "July 8, 1992",
+          "position": "FW",
+          "club": "Tottenham Hotspur",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Hwang Hee-chan",
+          "playerDob": "January 26, 1996",
+          "position": "FW",
+          "club": "Wolverhampton Wanderers",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "dribbles": "7.11"
+    },
+    "goalKeeper": {
+      "playerName": "Kim Seung-gyu",
+      "appearances": "4",
+      "savePercentage": "57.89%",
+      "cleanSheets": "25%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Kim Seung-gyu",
+          "playerDob": "September 30, 1990",
+          "position": "GK",
+          "club": "Al Shabab",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Kim Jin-su",
+          "playerDob": "June 13, 1992",
+          "position": "DF",
+          "club": "Jeonbuk Hyundai Motors",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Kim Moon-hwan",
+          "playerDob": "August 1, 1995",
+          "position": "DF",
+          "club": "Jeonbuk Hyundai Motors",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Kim Young-gwon",
+          "playerDob": "February 27, 1990",
+          "position": "DF",
+          "club": "Ulsan Hyundai",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Kwon Kyung-won",
+          "playerDob": "January 31, 1992",
+          "position": "DF",
+          "club": "Gamba Osaka",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Jung Woo-young",
+          "playerDob": "December 14, 1989",
+          "position": "MF",
+          "club": "Al Sadd",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Hwang In-beom",
+          "playerDob": "September 20, 1996",
+          "position": "MF",
+          "club": "Olympiacos",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Lee Kang-in",
+          "playerDob": "February 19, 2001",
+          "position": "MF",
+          "club": "Mallorca",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Son Heung-min",
+          "playerDob": "July 8, 1992",
+          "position": "FW",
+          "club": "Tottenham Hotspur",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Hwang Ui-jo",
+          "playerDob": "August 28, 1992",
+          "position": "FW",
+          "club": "Olympiacos",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        }
+      ],
+      "appearances": "4"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Kim Jin-su",
+          "playerDob": "June 13, 1992",
+          "position": "DF",
+          "club": "Jeonbuk Hyundai Motors",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        }
+      ],
+      "duels": "10.26"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Son Jun-ho",
+          "playerDob": "May 12, 1992",
+          "position": "MF",
+          "club": "Shandong Taishan",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "3.91"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Paik Seung-ho",
+          "playerDob": "March 17, 1997",
+          "position": "MF",
+          "club": "Jeonbuk Hyundai Motors",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "10.80"
+    }
+  },
+  {
+    "teamName": "England",
+    "teamTotalGoals": 13,
+    "fifaRanking": 5,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Marcus Rashford",
+          "playerDob": "Oct 31, 1997",
+          "position": "FW",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Bukayo Saka",
+          "playerDob": "Sep 5, 2001",
+          "position": "FW",
+          "club": "Arsenal",
+          "brandSponsorAndUsed": "New Balance",
+          "appearances": "4"
+        }
+      ],
+      "goals": "3"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Harry Kane",
+          "playerDob": "Jul 28, 1993",
+          "position": "FW",
+          "club": "Tottenham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "goalAssists": "3"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Jack Grealish",
+          "playerDob": "Sep 10, 1995",
+          "position": "MF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "dribbles": "5.49"
+    },
+    "goalKeeper": {
+      "playerName": "Jordan Pickford",
+      "appearances": "5",
+      "savePercentage": "63.64%",
+      "cleanSheets": "60%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Jordan Pickford",
+          "playerDob": "Mar 7, 1994",
+          "position": "GK",
+          "club": "Everton",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Harry Maguire",
+          "playerDob": "Mar 5, 1993",
+          "position": "DF",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Luke Shaw",
+          "playerDob": "Jul 12, 1995",
+          "position": "DF",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "John Stones",
+          "playerDob": "May 28, 1994",
+          "position": "DF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Jude Bellingham",
+          "playerDob": "Jun 29, 2003",
+          "position": "MF",
+          "club": "Borussia Dortmund",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Declan Rice",
+          "playerDob": "Jan 14, 1999",
+          "position": "MF",
+          "club": "West Ham United",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Jack Grealish",
+          "playerDob": "Sep 10, 1995",
+          "position": "MF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Harry Kane",
+          "playerDob": "Jul 28, 1993",
+          "position": "FW",
+          "club": "Tottenham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Marcus Rashford",
+          "playerDob": "Oct 31, 1997",
+          "position": "FW",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "appearances": "5"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Jack Grealish",
+          "playerDob": "Sep 10, 1995",
+          "position": "MF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "duels": "17.56"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Jack Grealish",
+          "playerDob": "Sep 10, 1995",
+          "position": "MF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "interceptions": "3.29"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Jack Grealish",
+          "playerDob": "Sep 10, 1995",
+          "position": "MF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "successfulTackles": "3.29"
+    }
+  },
+  {
+    "teamName": "Portugal",
+    "teamTotalGoals": 12,
+    "fifaRanking": 9,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Goncalo Ramos",
+          "playerDob": "June 20, 2001",
+          "position": "FW",
+          "club": "Benfica",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goals": "3"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Bruno Fernandes",
+          "playerDob": "September 8, 1994",
+          "position": "MF",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "3"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Rafael Leao",
+          "playerDob": "June 10, 1999",
+          "position": "FW",
+          "club": "AC Milan",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        }
+      ],
+      "dribbles": "6.51"
+    },
+    "goalKeeper": {
+      "playerName": "Diogo Costa",
+      "appearances": "5",
+      "savePercentage": "64.17%",
+      "cleanSheets": "20%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Diogo Costa",
+          "playerDob": "September 19, 1999",
+          "position": "GK",
+          "club": "Porto",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Ruben Neves",
+          "playerDob": "March 13, 1997",
+          "position": "MF",
+          "club": "Wolves",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Bernardo Silva",
+          "playerDob": "August 10, 1994",
+          "position": "MF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Cristiano Ronaldo 🐐",
+          "playerDob": "February 5, 1985",
+          "position": "FW",
+          "club": "-",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Rafael Leao",
+          "playerDob": "June 10, 1999",
+          "position": "FW",
+          "club": "AC Milan",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        }
+      ],
+      "appearances": "5"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Danilo Pereira",
+          "playerDob": "September 9, 1991",
+          "position": "DF",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "duels": "14.00"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Nuno Mendes",
+          "playerDob": "June 19, 2002",
+          "position": "DF",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "interceptions": "4.29"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Joao Palhinha",
+          "playerDob": "July 9, 1995",
+          "position": "MF",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "successfulTackles": "5.14"
+    }
+  },
+  {
+    "teamName": "Serbia",
+    "teamTotalGoals": 5,
+    "fifaRanking": 29,
+    "nationalTeamKitSponsor": "Puma",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Aleksandr Mitrovic",
+          "playerDob": "September 16, 1994",
+          "position": "FW",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Dusan Tadic",
+          "playerDob": "November 20, 1988",
+          "position": "FW",
+          "club": "Ajax",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Andrija Zivkovic",
+          "playerDob": "July 11, 1996",
+          "position": "MF",
+          "club": "PAOK",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "2"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Nemanja Radonjic",
+          "playerDob": "February 15, 1996",
+          "position": "FW",
+          "club": "Torino",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "3.16"
+    },
+    "goalKeeper": {
+      "playerName": "Vanja Milinkovic-Savic",
+      "appearances": "3",
+      "savePercentage": "65.22%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Aleksandr Mitrovic",
+          "playerDob": "September 16, 1994",
+          "position": "FW",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Nemanja Radonjic",
+          "playerDob": "February 15, 1996",
+          "position": "FW",
+          "club": "Torino",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Dusan Tadic",
+          "playerDob": "November 20, 1988",
+          "position": "FW",
+          "club": "Ajax",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Vanja Milinkovic-Savic",
+          "playerDob": "February 20, 1997",
+          "position": "GK",
+          "club": "Torino",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Strahinja Pavlovic",
+          "playerDob": "May 24, 2001",
+          "position": "DF",
+          "club": "Salzburg",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Milos Veljkovic",
+          "playerDob": "September 26, 1995",
+          "position": "DF",
+          "club": "Werder Bremen",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Nikola Milenkovic",
+          "playerDob": "October 12, 1997",
+          "position": "DF",
+          "club": "Fiorentina",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Nemanja Maksimovic",
+          "playerDob": "January 26, 1995",
+          "position": "MF",
+          "club": "Getafe",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Sergej Milinkovic-Savic",
+          "playerDob": "February 27, 1995",
+          "position": "MF",
+          "club": "Lazio",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Sasa Lukic",
+          "playerDob": "August 13, 1996",
+          "position": "MF",
+          "club": "Torino",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Andrija Zivkovic",
+          "playerDob": "July 11, 1996",
+          "position": "MF",
+          "club": "PAOK",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Strahinja Pavlovic",
+          "playerDob": "May 24, 2001",
+          "position": "DF",
+          "club": "Salzburg",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        }
+      ],
+      "duels": "14.11"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Ivan Ilic",
+          "playerDob": "March 17, 2001",
+          "position": "MF",
+          "club": "Verona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "interceptions": "2.73"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Marko Grujic",
+          "playerDob": "April 13, 1996",
+          "position": "MF",
+          "club": "Porto",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Srdan Babic",
+          "playerDob": "April 22, 1996",
+          "position": "DF",
+          "club": "Almeria",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "7.50"
+    }
+  },
+  {
+    "teamName": "Iran",
+    "teamTotalGoals": 4,
+    "fifaRanking": 24,
+    "nationalTeamKitSponsor": "Majid",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Mehdi Taremi",
+          "playerDob": "Jul 18, 1992",
+          "position": "FW",
+          "club": "Porto",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Ali Gholizadeh",
+          "playerDob": "Mar 10, 1996",
+          "position": "MF",
+          "club": "Charleroi",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Mehdi Taremi",
+          "playerDob": "Jul 18, 1992",
+          "position": "FW",
+          "club": "Porto",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Ali Gholizadeh",
+          "playerDob": "Mar 10, 1996",
+          "position": "MF",
+          "club": "Charleroi",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "3.18"
+    },
+    "goalKeeper": {
+      "playerName": "Alireza Beiranvand",
+      "appearances": "2",
+      "savePercentage": "80.00%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Ehsan Hajsafi",
+          "playerDob": "Feb 25, 1990",
+          "position": "DF",
+          "club": "AEK Athens",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Morteza Pouraliganji",
+          "playerDob": "Apr 19, 1992",
+          "position": "DF",
+          "club": "Persepolis",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Milad Mohammadi",
+          "playerDob": "Sep 29, 1993",
+          "position": "DF",
+          "club": "AEK Athens",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Majid Hosseini",
+          "playerDob": "Jun 20, 1996",
+          "position": "DF",
+          "club": "Kayserispor",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Mehdi Torabi",
+          "playerDob": "Sep 10, 1994",
+          "position": "MF",
+          "club": "Persepolis",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ali Gholizadeh",
+          "playerDob": "Mar 10, 1996",
+          "position": "MF",
+          "club": "Charleroi",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ahmad Nourollahi",
+          "playerDob": "Jan 2, 1993",
+          "position": "MF",
+          "club": "Shabab Al-Ahli",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ali Karimi",
+          "playerDob": "Feb 11, 1994",
+          "position": "MF",
+          "club": "Kayserispor",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Sardar Azmoun",
+          "playerDob": "Jan 1, 1995",
+          "position": "FW",
+          "club": "Bayer Leverkusen",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Mehdi Taremi",
+          "playerDob": "Jul 18, 1992",
+          "position": "FW",
+          "club": "Porto",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Ali Karimi",
+          "playerDob": "Feb 11, 1994",
+          "position": "MF",
+          "club": "Kayserispor",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        }
+      ],
+      "duels": "9.19"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Mehdi Torabi",
+          "playerDob": "Sep 10, 1994",
+          "position": "MF",
+          "club": "Persepolis",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Rouzbeh Cheshmi",
+          "playerDob": "Jun 24, 1993",
+          "position": "MF",
+          "club": "Esteghlal",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "interceptions": "3.05"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Milad Mohammadi",
+          "playerDob": "Sep 29, 1993",
+          "position": "DF",
+          "club": "AEK Athens",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "successfulTackles": "4.55"
+    }
+  },
+  {
+    "teamName": "Switzerland",
+    "teamTotalGoals": 5,
+    "fifaRanking": 12,
+    "nationalTeamKitSponsor": "Puma",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Breel Embolo",
+          "playerDob": "Feb 14, 1997",
+          "position": "FW",
+          "club": "Monaco",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Ruben Vargas",
+          "playerDob": "Aug 5, 1998",
+          "position": "FW",
+          "club": "Augsburg",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Xherdan Shaqiri",
+          "playerDob": "Oct 10, 1991",
+          "position": "MF",
+          "club": "Chicago Fire",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Djibril Sow",
+          "playerDob": "Feb 6, 1997",
+          "position": "MF",
+          "club": "Eintracht Frankfurt",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Renato Steffen",
+          "playerDob": "Nov 3, 1991",
+          "position": "MF",
+          "club": "Lugano",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "dribbles": "2.81"
+    },
+    "goalKeeper": {
+      "playerName": "Yann Sommer",
+      "appearances": "3",
+      "savePercentage": "63.16%",
+      "cleanSheets": "33%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Ruben Vargas",
+          "playerDob": "Aug 5, 1998",
+          "position": "FW",
+          "club": "Augsburg",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Ricardo Rodriguez",
+          "playerDob": "Aug 25, 1992",
+          "position": "DF",
+          "club": "Torino",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Manuel Akanji",
+          "playerDob": "Jul 19, 1995",
+          "position": "DF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Granit Xhaka",
+          "playerDob": "Sep 27, 1992",
+          "position": "MF",
+          "club": "Arsenal",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Remo Freuler",
+          "playerDob": "Apr 15, 1992",
+          "position": "MF",
+          "club": "Nottingham Forest",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Djibril Sow",
+          "playerDob": "Feb 6, 1997",
+          "position": "MF",
+          "club": "Eintracht Frankfurt",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Breel Embolo",
+          "playerDob": "Feb 14, 1997",
+          "position": "FW",
+          "club": "Monaco",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "appearances": "4"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Fabian Rieder",
+          "playerDob": "Feb 16, 2002",
+          "position": "MF",
+          "club": "Young Boys",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "duels": "8.06"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Denis Zakaria",
+          "playerDob": "Nov 20, 1996",
+          "position": "MF",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "interceptions": "4.74"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Michel Aebischer",
+          "playerDob": "Jan 6, 1997",
+          "position": "MF",
+          "club": "Bologna",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "6.43"
+    }
+  },
+  {
+    "teamName": "Brazil",
+    "teamTotalGoals": 8,
+    "fifaRanking": 1,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Richarlison",
+          "playerDob": "May 10, 1997",
+          "position": "FW",
+          "club": "Tottenham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goals": "3"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Vinicius Jr",
+          "playerDob": "Jul 12, 2000",
+          "position": "FW",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "2"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Antony",
+          "playerDob": "Feb 24, 2000",
+          "position": "FW",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        }
+      ],
+      "dribbles": "6.84"
+    },
+    "goalKeeper": {
+      "playerName": "Alisson",
+      "appearances": "4",
+      "savePercentage": "71.43%",
+      "cleanSheets": "50%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Raphinha",
+          "playerDob": "Dec 14, 1996",
+          "position": "FW",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Rodrygo",
+          "playerDob": "Jan 9, 2001",
+          "position": "FW",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        },
+        {
+          "playerName": "Marquinhos",
+          "playerDob": "May 14, 1994",
+          "position": "DF",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "appearances": "5"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Pedro",
+          "playerDob": "Jun 20, 1997",
+          "position": "FW",
+          "club": "Flamengo",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "duels": "14.51"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Gabriel Jesus",
+          "playerDob": "Apr 3, 1997",
+          "position": "FW",
+          "club": "Arsenal",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "1.96"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Dani Alves",
+          "playerDob": "May 6, 1983",
+          "position": "DF",
+          "club": "UNAM",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "successfulTackles": "3.85"
+    }
+  },
+  {
+    "teamName": "France",
+    "teamTotalGoals": 17,
+    "fifaRanking": 3,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Kylian Mbappe",
+          "playerDob": "Dec 20, 1998",
+          "position": "FW",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        }
+      ],
+      "goals": "8"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Antoine Griezmann",
+          "playerDob": "Mar 21, 1991",
+          "position": "FW",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "7"
+        }
+      ],
+      "goalAssists": "3"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Kylian Mbappe",
+          "playerDob": "Dec 20, 1998",
+          "position": "FW",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        }
+      ],
+      "dribbles": "7.24"
+    },
+    "goalKeeper": {
+      "playerName": "Hugo Lloris",
+      "appearances": "6",
+      "savePercentage": "70.83%",
+      "cleanSheets": "17%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Aurelien Tchouaméni",
+          "playerDob": "Jan 27, 2000",
+          "position": "MF",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Kylian Mbappe",
+          "playerDob": "Dec 20, 1998",
+          "position": "FW",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Antoine Griezmann",
+          "playerDob": "Mar 21, 1991",
+          "position": "FW",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Ousmane Dembele",
+          "playerDob": "May 15, 1997",
+          "position": "FW",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        }
+      ],
+      "appearances": "7"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Marcus Thuram",
+          "playerDob": "Aug 6, 1997",
+          "position": "FW",
+          "club": "Borussia Monchengladbach",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "duels": "18.49"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Ibrahima Konate",
+          "playerDob": "May 25, 1999",
+          "position": "DF",
+          "club": "Liverpool",
+          "brandSponsorAndUsed": "Nike ",
+          "appearances": "5"
+        }
+      ],
+      "interceptions": "2.16"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Eduardo Camavinga",
+          "playerDob": "Nov 10, 2002",
+          "position": "MF",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "successfulTackles": "9.06"
+    }
+  },
+  {
+    "teamName": "USA",
+    "teamTotalGoals": 3,
+    "fifaRanking": 13,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Christian Pulisic",
+          "playerDob": "Sept 18, 1998",
+          "position": "FW",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Tim Weah",
+          "playerDob": "Feb 22, 2000",
+          "position": "FW",
+          "club": "Lille",
+          "brandSponsorAndUsed": "New Balance",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Haji Wright",
+          "playerDob": "Mar 27, 1998",
+          "position": "FW",
+          "club": "Antalyaspor",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Christian Pulisic",
+          "playerDob": "Sept 18, 1998",
+          "position": "FW",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "2"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Brenden Aaronson",
+          "playerDob": "Oct 22, 2000",
+          "position": "MF",
+          "club": "Leeds United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "dribbles": "6.06"
+    },
+    "goalKeeper": {
+      "playerName": "Matt Turner",
+      "appearances": "4",
+      "savePercentage": "53.33%",
+      "cleanSheets": "50%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Walker Zimmerman",
+          "playerDob": "May 19, 1993",
+          "position": "DF",
+          "club": "Nashville SC",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Brenden Aaronson",
+          "playerDob": "Oct 22, 2000",
+          "position": "MF",
+          "club": "Leeds United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Tyler Adams",
+          "playerDob": "Feb 14, 1999",
+          "position": "MF",
+          "club": "Leeds United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Weston McKennie",
+          "playerDob": "Aug 28, 1998",
+          "position": "MF",
+          "club": "Juventus",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Yunus Musah",
+          "playerDob": "Nov 29, 2002",
+          "position": "MF",
+          "club": "Valencia",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Christian Pulisic",
+          "playerDob": "Sept 18, 1998",
+          "position": "FW",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Tim Weah",
+          "playerDob": "Feb 22, 2000",
+          "position": "FW",
+          "club": "Lille",
+          "brandSponsorAndUsed": "New Balance",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Haji Wright",
+          "playerDob": "Mar 27, 1998",
+          "position": "FW",
+          "club": "Antalyaspor",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Matt Turner",
+          "playerDob": "Jun 24, 1994",
+          "position": "GK",
+          "club": "Arsenal",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Sergiño Dest",
+          "playerDob": "Nov 3, 2000",
+          "position": "DF",
+          "club": "AC Milan",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Tim Ream",
+          "playerDob": "Oct 5, 1987",
+          "position": "DF",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Antonee Robinson",
+          "playerDob": "Aug 8, 1997",
+          "position": "DF",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "appearances": "4"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Shaq Moore",
+          "playerDob": "Nov 2, 1996",
+          "position": "DF",
+          "club": "Nashville SC",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "duels": "18.00"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Antonee Robinson",
+          "playerDob": "Aug 8, 1997",
+          "position": "DF",
+          "club": "Fulham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "interceptions": "1.75"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Shaq Moore",
+          "playerDob": "Nov 2, 1996",
+          "position": "DF",
+          "club": "Nashville SC",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "successfulTackles": "9.00"
+    }
+  },
+  {
+    "teamName": "Qatar",
+    "teamTotalGoals": 0,
+    "fifaRanking": 60,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Boualem Khoukhi",
+          "playerDob": "Sep 7, 1990",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Pedro Miguel",
+          "playerDob": "Aug 6, 1990",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Tarek Salman",
+          "playerDob": "Dec 5, 1997",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Bassam Al-Rawi",
+          "playerDob": "Dec 16, 1997",
+          "position": "DF",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Karim Boudiaf",
+          "playerDob": "Sep 16, 1990",
+          "position": "MF",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Abdulaziz Hatem",
+          "playerDob": "Oct 28, 1990",
+          "position": "MF",
+          "club": "Al-Rayyan",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Hassan Al-Haydos",
+          "playerDob": "Dec 11, 1990",
+          "position": "FW",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Akram Afif",
+          "playerDob": "Nov 18, 1996",
+          "position": "FW",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Almoez Ali",
+          "playerDob": "Aug 19, 1996",
+          "position": "FW",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ahmed Alaaeldin",
+          "playerDob": "Jan 31, 1993",
+          "position": "FW",
+          "club": "Al-Gharafa",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "goals": "0"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Boualem Khoukhi",
+          "playerDob": "Sep 7, 1990",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Pedro Miguel",
+          "playerDob": "Aug 6, 1990",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Tarek Salman",
+          "playerDob": "Dec 5, 1997",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Bassam Al-Rawi",
+          "playerDob": "Dec 16, 1997",
+          "position": "DF",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Karim Boudiaf",
+          "playerDob": "Sep 16, 1990",
+          "position": "MF",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Abdulaziz Hatem",
+          "playerDob": "Oct 28, 1990",
+          "position": "MF",
+          "club": "Al-Rayyan",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Hassan Al-Haydos",
+          "playerDob": "Dec 11, 1990",
+          "position": "FW",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Akram Afif",
+          "playerDob": "Nov 18, 1996",
+          "position": "FW",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Almoez Ali",
+          "playerDob": "Aug 19, 1996",
+          "position": "FW",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ahmed Alaaeldin",
+          "playerDob": "Jan 31, 1993",
+          "position": "FW",
+          "club": "Al-Gharafa",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "goalAssists": "0"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Hassan Al-Haydos",
+          "playerDob": "Dec 11, 1990",
+          "position": "FW",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "2.14"
+    },
+    "goalKeeper": {
+      "playerName": "Saad Al Sheeb",
+      "appearances": "1",
+      "savePercentage": "33.33%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Boualem Khoukhi",
+          "playerDob": "Sep 7, 1990",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Pedro Miguel",
+          "playerDob": "Aug 6, 1990",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Karim Boudiaf",
+          "playerDob": "Sep 16, 1990",
+          "position": "MF",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Abdulaziz Hatem",
+          "playerDob": "Oct 28, 1990",
+          "position": "MF",
+          "club": "Al-Rayyan",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Hassan Al-Haydos",
+          "playerDob": "Dec 11, 1990",
+          "position": "FW",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Akram Afif",
+          "playerDob": "Nov 18, 1996",
+          "position": "FW",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Almoez Ali",
+          "playerDob": "Aug 19, 1996",
+          "position": "FW",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Karim Boudiaf",
+          "playerDob": "Sep 16, 1990",
+          "position": "MF",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "duels": "8.76"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Pedro Miguel",
+          "playerDob": "Aug 6, 1990",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "2.74"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Pedro Miguel",
+          "playerDob": "Aug 6, 1990",
+          "position": "DF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "successfulTackles": "2.05"
+    }
+  },
+  {
+    "teamName": "Ghana",
+    "teamTotalGoals": 5,
+    "fifaRanking": 58,
+    "nationalTeamKitSponsor": "Puma",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Mohammed Kudus",
+          "playerDob": "Aug 2, 2000",
+          "position": "MF",
+          "club": "Ajax",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Inaki Williams",
+          "playerDob": "Jun 15, 1994",
+          "position": "FW",
+          "club": "Athletic Club",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jordan Ayew",
+          "playerDob": "Sep 11, 1991",
+          "position": "FW",
+          "club": "Crystal Palace",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Inaki Williams",
+          "playerDob": "Jun 15, 1994",
+          "position": "FW",
+          "club": "Athletic Club",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "36.00"
+    },
+    "goalKeeper": {
+      "playerName": "Lawrence Ati Zigi",
+      "appearances": "3",
+      "savePercentage": "58.82%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Lawrence Ati Zigi",
+          "playerDob": "Nov 29, 1996",
+          "position": "GK",
+          "club": "St. Gellen",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Daniel Amartey",
+          "playerDob": "Dec 21, 1994",
+          "position": "DF",
+          "club": "Leicester City",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Mohammed Salisu",
+          "playerDob": "Apr 17, 1999",
+          "position": "DF",
+          "club": "Southampton",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Abdul-Rahman Baba",
+          "playerDob": "Jul 2, 1994",
+          "position": "DF",
+          "club": "Reading",
+          "brandSponsorAndUsed": "New Balance",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Andre Ayew",
+          "playerDob": "Dec 17, 1989",
+          "position": "MF",
+          "club": "Al-Sadd",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Thomas Partey",
+          "playerDob": "Jun 13, 1993",
+          "position": "MF",
+          "club": "Arsenal",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Salis Abdul Samed",
+          "playerDob": "Mar 26, 2000",
+          "position": "MF",
+          "club": "Lens",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Mohammed Kudus",
+          "playerDob": "Aug 2, 2000",
+          "position": "MF",
+          "club": "Ajax",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Daniel Kofi Kyereh",
+          "playerDob": "Mar 9, 1996",
+          "position": "MF",
+          "club": "SC Freiburg",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Inaki Williams",
+          "playerDob": "Jun 15, 1994",
+          "position": "FW",
+          "club": "Athletic Club",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jordan Ayew",
+          "playerDob": "Sep 11, 1991",
+          "position": "FW",
+          "club": "Crystal Palace",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Antoine Semenyo",
+          "playerDob": "Jan 7, 2000",
+          "position": "FW",
+          "club": "Bristol City",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "duels": "10.00"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Gideon Mensah",
+          "playerDob": "Jul 18, 1998",
+          "position": "DF",
+          "club": "Auxerre",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "interceptions": "2.05"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Denis Odoi",
+          "playerDob": "May 27, 1988",
+          "position": "DF",
+          "club": "Club Brugge",
+          "brandSponsorAndUsed": "Lotto",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "7.50"
+    }
+  },
+  {
+    "teamName": "Tunisia",
+    "teamTotalGoals": 1,
+    "fifaRanking": 30,
+    "nationalTeamKitSponsor": "Kappa",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Wahbi Khazri",
+          "playerDob": "Feb 8, 1991",
+          "position": "FW",
+          "club": "Montpellier",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Aissa Laidouni",
+          "playerDob": "Dec 13, 1996",
+          "position": "MF",
+          "club": "Ferencvaros",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Naim Sliti",
+          "playerDob": "Jul 27, 1992",
+          "position": "FW",
+          "club": "Al-Ettifaq",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "dribbles": "4.78"
+    },
+    "goalKeeper": {
+      "playerName": "Aymen Dahmen",
+      "appearances": "N.A",
+      "savePercentage": "N.A",
+      "cleanSheets": "N.A"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Wajdi Kechrida",
+          "playerDob": "Nov 5, 1995",
+          "position": "DF",
+          "club": "Atromitos",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Montassar Talbi",
+          "playerDob": "May 26, 1998",
+          "position": "DF",
+          "club": "Lorient",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ellyes Skhiri",
+          "playerDob": "May 10, 1995",
+          "position": "MF",
+          "club": "FC Koln",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Aissa Laidouni",
+          "playerDob": "Dec 13, 1996",
+          "position": "MF",
+          "club": "Ferencvaros",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Issam Jebali",
+          "playerDob": "Dec 25, 1991",
+          "position": "FW",
+          "club": "OB",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Anis Ben Slimane",
+          "playerDob": "Mar 16, 2001",
+          "position": "FW",
+          "club": "Brondby",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Youssef Msakni",
+          "playerDob": "Oct 28, 1990",
+          "position": "FW",
+          "club": "Al-Duhail",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "duels": "9.00"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Ellyes Skhiri",
+          "playerDob": "May 10, 1995",
+          "position": "MF",
+          "club": "FC Koln",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "2.33"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Mohamed Ali Ben Romdhane",
+          "playerDob": "Sep 6, 1999",
+          "position": "MF",
+          "club": "Esperance de Tunis",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "6.08"
+    }
+  },
+  {
+    "teamName": "Japan",
+    "teamTotalGoals": 5,
+    "fifaRanking": 20,
+    "nationalTeamKitSponsor": "Adidas",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Ritsu Doan",
+          "playerDob": "Jun 16, 1998",
+          "position": "MF",
+          "club": "Freiburg",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Maya Yoshida",
+          "playerDob": "Aug 24, 1988",
+          "position": "DF",
+          "club": "Schalke",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Kaoru Mitoma",
+          "playerDob": "May 20, 1997",
+          "position": "MF",
+          "club": "Brighton",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Junya Ito",
+          "playerDob": "Mar 9, 1993",
+          "position": "MF",
+          "club": "Reims",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Kaoru Mitoma",
+          "playerDob": "May 20, 1997",
+          "position": "MF",
+          "club": "Brighton",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        }
+      ],
+      "dribbles": "2.80"
+    },
+    "goalKeeper": {
+      "playerName": "Shuichi Gonda",
+      "appearances": "4",
+      "savePercentage": "78.95%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Daichi Kamada",
+          "playerDob": "Nov 5, 1996",
+          "position": "MF",
+          "club": "Eintracht Frankfurt",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Takuma Asano",
+          "playerDob": "Nov 10, 1994",
+          "position": "FW",
+          "club": "Bochum",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Shuichi Gonda",
+          "playerDob": "Mar 3, 1989",
+          "position": "GK",
+          "club": "Shimizu S-Pulse",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Yuto Nagatomo",
+          "playerDob": "Sep 12, 1986",
+          "position": "DF",
+          "club": "Tokyo",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Maya Yoshida",
+          "playerDob": "Aug 24, 1988",
+          "position": "DF",
+          "club": "Schalke",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Wataru Endo",
+          "playerDob": "Feb 9, 1993",
+          "position": "MF",
+          "club": "Stuttgart",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Ritsu Doan",
+          "playerDob": "Jun 16, 1998",
+          "position": "MF",
+          "club": "Freiburg",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Kaoru Mitoma",
+          "playerDob": "May 20, 1997",
+          "position": "MF",
+          "club": "Brighton",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Junya Ito",
+          "playerDob": "Mar 9, 1993",
+          "position": "MF",
+          "club": "Reims",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        }
+      ],
+      "appearances": "4"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Wataru Endo",
+          "playerDob": "Feb 9, 1993",
+          "position": "MF",
+          "club": "Stuttgart",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        }
+      ],
+      "duels": "10.69"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Miki Yamane",
+          "playerDob": "Dec 22, 1993",
+          "position": "DF",
+          "club": "Kawasaki Frontale",
+          "brandSponsorAndUsed": "Asics",
+          "appearances": "1"
+        }
+      ],
+      "interceptions": "2.90"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Kaoru Mitoma",
+          "playerDob": "May 20, 1997",
+          "position": "MF",
+          "club": "Brighton",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        }
+      ],
+      "successfulTackles": "3.91"
+    }
+  },
+  {
+    "teamName": "Argentina",
+    "teamTotalGoals": 15,
+    "fifaRanking": 2,
+    "nationalTeamKitSponsor": "Adidas",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Lionel Messi 🐐",
+          "playerDob": "Jun 24, 1987",
+          "position": "FW",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "goals": "7"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Lionel Messi 🐐",
+          "playerDob": "Jun 24, 1987",
+          "position": "FW",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "goalAssists": "3"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Angel Di Maria",
+          "playerDob": "Feb 14, 1988",
+          "position": "FW",
+          "club": "Juventus",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "5"
+        }
+      ],
+      "dribbles": "6.83"
+    },
+    "goalKeeper": {
+      "playerName": "Emiliano Martinez",
+      "appearances": "7",
+      "savePercentage": "46.67%",
+      "cleanSheets": "43%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Emiliano Martinez",
+          "playerDob": "Sep 2, 1992",
+          "position": "GK",
+          "club": "Aston Villa",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Nicolas Otamendi",
+          "playerDob": "Feb 12, 1988",
+          "position": "DF",
+          "club": "Benfica",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Nahuel Molina",
+          "playerDob": "Apr 6, 1998",
+          "position": "DF",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Cristian Romero",
+          "playerDob": "Apr 27, 1998",
+          "position": "DF",
+          "club": "Tottenham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Rodrigo De Paul",
+          "playerDob": "May 24, 1994",
+          "position": "MF",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Enzo Fernandez",
+          "playerDob": "Jan 17, 2001",
+          "position": "MF",
+          "club": "Benfica",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Lionel Messi 🐐",
+          "playerDob": "Jun 24, 1987",
+          "position": "FW",
+          "club": "PSG",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Julian Alvarez",
+          "playerDob": "Jan 31, 2000",
+          "position": "FW",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "appearances": "7"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Leandro Paredes",
+          "playerDob": "Jun 29, 1994",
+          "position": "MF",
+          "club": "Juventus",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "duels": "9.24"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Exequiel Palacios",
+          "playerDob": "Oct 5, 1998",
+          "position": "MF",
+          "club": "Bayer Leverkusen",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "3.83"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Leandro Paredes",
+          "playerDob": "Jun 29, 1994",
+          "position": "MF",
+          "club": "Juventus",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "5"
+        }
+      ],
+      "successfulTackles": "4.02"
+    }
+  },
+  {
+    "teamName": "Croatia",
+    "teamTotalGoals": 8,
+    "fifaRanking": 7,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Andrej Kramaric",
+          "playerDob": "Jun 19, 1991",
+          "position": "FW",
+          "club": "Hoffenheim",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Ivan Perisic",
+          "playerDob": "Feb 2, 1989",
+          "position": "FW",
+          "club": "Tottenham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        }
+      ],
+      "goalAssists": "3"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Mateo Kovacic",
+          "playerDob": "May 6, 1994",
+          "position": "MF",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        }
+      ],
+      "dribbles": "2.39"
+    },
+    "goalKeeper": {
+      "playerName": "Dominik Livakovic",
+      "appearances": "7",
+      "savePercentage": "78.12%",
+      "cleanSheets": "28%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Dominik Livakovic",
+          "playerDob": "Jan 9, 1995",
+          "position": "GK",
+          "club": "Dinamo Zagreb",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Josko Gvardiol",
+          "playerDob": "Jan 23, 2002",
+          "position": "DF",
+          "club": "RB Leipzig",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Luka Modric",
+          "playerDob": "Sep 9, 1985",
+          "position": "MF",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Mateo Kovacic",
+          "playerDob": "May 6, 1994",
+          "position": "MF",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Mario Pasalic",
+          "playerDob": "Feb 9, 1995",
+          "position": "MF",
+          "club": "Atalanta",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Lovro Majer",
+          "playerDob": "Jan 17, 1998",
+          "position": "MF",
+          "club": "Rennes",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Ivan Perisic",
+          "playerDob": "Feb 2, 1989",
+          "position": "FW",
+          "club": "Tottenham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        },
+        {
+          "playerName": "Andrej Kramaric",
+          "playerDob": "Jun 19, 1991",
+          "position": "FW",
+          "club": "Hoffenheim",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "appearances": "7"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Bruno Petkovic",
+          "playerDob": "Sep 16, 1997",
+          "position": "FW",
+          "club": "Dinamo Zagreb",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "6"
+        }
+      ],
+      "duels": "14.48"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Josko Gvardiol",
+          "playerDob": "Jan 23, 2002",
+          "position": "DF",
+          "club": "RB Leipzig",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "7"
+        }
+      ],
+      "interceptions": "1.57"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Mateo Kovacic",
+          "playerDob": "May 6, 1994",
+          "position": "MF",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "7"
+        }
+      ],
+      "successfulTackles": "3.38"
+    }
+  },
+  {
+    "teamName": "Belgium",
+    "teamTotalGoals": 1,
+    "fifaRanking": 4,
+    "nationalTeamKitSponsor": "Adidas",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Michy Batshuayi",
+          "playerDob": "Oct 2, 1993",
+          "position": "FW",
+          "club": "Fenerbahce",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Toby Alderweireld",
+          "playerDob": "Mar 2, 1989",
+          "position": "DF",
+          "club": "Antwerp",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Eden Hazard",
+          "playerDob": "Jan 7, 1991",
+          "position": "FW",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "dribbles": "5.04"
+    },
+    "goalKeeper": {
+      "playerName": "Thibaut Courtois",
+      "appearances": "3",
+      "savePercentage": "81.82%",
+      "cleanSheets": "67%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Thibaut Courtois",
+          "playerDob": "May 11, 1992",
+          "position": "GK",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Toby Alderweireld",
+          "playerDob": "Mar 2, 1989",
+          "position": "DF",
+          "club": "Antwerp",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jan Vertonghen",
+          "playerDob": "Apr 24, 1987",
+          "position": "DF",
+          "club": "Anderlecht",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Timothy Castagne",
+          "playerDob": "Dec 5, 1995",
+          "position": "DF",
+          "club": "Leicester",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Thomas Meunier",
+          "playerDob": "Sep 12, 1991",
+          "position": "DF",
+          "club": "Borussia Dortmund",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Kevin De Bruyne",
+          "playerDob": "Jun 28, 1991",
+          "position": "MF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Youri Tielemans",
+          "playerDob": "May 7, 1997",
+          "position": "MF",
+          "club": "Leicester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Axel Witsel",
+          "playerDob": "Jan 12, 1989",
+          "position": "MF",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Leandro Trossard",
+          "playerDob": "Dec 4, 1994",
+          "position": "FW",
+          "club": "Brighton",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Eden Hazard",
+          "playerDob": "Jan 7, 1991",
+          "position": "FW",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "duels": "9.36"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Youri Tielemans",
+          "playerDob": "May 7, 1997",
+          "position": "MF",
+          "club": "Leicester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "1.91"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Lois Openda",
+          "playerDob": "Feb 16, 2000",
+          "position": "FW",
+          "club": "Lens",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "7.50"
+    }
+  },
+  {
+    "teamName": "Uruguay",
+    "teamTotalGoals": 0,
+    "fifaRanking": 16,
+    "nationalTeamKitSponsor": "Puma",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Martin Caceres",
+          "playerDob": "April 7, 1987",
+          "position": "DF",
+          "club": "La Galaxy",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Sebastian Coates",
+          "playerDob": "October 7, 1990",
+          "position": "DF",
+          "club": "Sporting CP",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Jose Maria Gimenez",
+          "playerDob": "January 20, 1995",
+          "position": "DF",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Mathias Olivera",
+          "playerDob": "October 31, 1997",
+          "position": "DF",
+          "club": "Napoli",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Guillermo Varela",
+          "playerDob": "March 24, 1993",
+          "position": "DF",
+          "club": "Flamengo",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Matias Vecino",
+          "playerDob": "August 24, 1991",
+          "position": "MF",
+          "club": "Lazio",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Nicolás de la Cruz",
+          "playerDob": "June 1, 1997",
+          "position": "MF",
+          "club": "River Plate",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Rodrigo Bentancur",
+          "playerDob": "June 25, 1997",
+          "position": "MF",
+          "club": "Tottenham Hotspur",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Federico Valverde",
+          "playerDob": "July 22, 1998",
+          "position": "MF",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Edinson Cavani",
+          "playerDob": "February 14, 1987",
+          "position": "FW",
+          "club": "Valencia",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Maxi Gomez",
+          "playerDob": "August 14, 1996",
+          "position": "FW",
+          "club": "Trabzonspor",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Darwin Nunez",
+          "playerDob": "June 24, 1999",
+          "position": "FW",
+          "club": "Liverpool",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Facundo Pellistri",
+          "playerDob": "December 20, 2001",
+          "position": "FW",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goals": "0"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Martin Caceres",
+          "playerDob": "April 7, 1987",
+          "position": "DF",
+          "club": "La Galaxy",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        },
+        {
+          "playerName": "Sebastian Coates",
+          "playerDob": "October 7, 1990",
+          "position": "DF",
+          "club": "Sporting CP",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Jose Maria Gimenez",
+          "playerDob": "January 20, 1995",
+          "position": "DF",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Mathias Olivera",
+          "playerDob": "October 31, 1997",
+          "position": "DF",
+          "club": "Napoli",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Guillermo Varela",
+          "playerDob": "March 24, 1993",
+          "position": "DF",
+          "club": "Flamengo",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Matias Vecino",
+          "playerDob": "August 24, 1991",
+          "position": "MF",
+          "club": "Lazio",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Nicolás de la Cruz",
+          "playerDob": "June 1, 1997",
+          "position": "MF",
+          "club": "River Plate",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Rodrigo Bentancur",
+          "playerDob": "June 25, 1997",
+          "position": "MF",
+          "club": "Tottenham Hotspur",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Federico Valverde",
+          "playerDob": "July 22, 1998",
+          "position": "MF",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Edinson Cavani",
+          "playerDob": "February 14, 1987",
+          "position": "FW",
+          "club": "Valencia",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Maxi Gomez",
+          "playerDob": "August 14, 1996",
+          "position": "FW",
+          "club": "Trabzonspor",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Darwin Nunez",
+          "playerDob": "June 24, 1999",
+          "position": "FW",
+          "club": "Liverpool",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Facundo Pellistri",
+          "playerDob": "December 20, 2001",
+          "position": "FW",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "0"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Facundo Pellistri",
+          "playerDob": "December 20, 2001",
+          "position": "FW",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "2.97"
+    },
+    "goalKeeper": {
+      "playerName": "Fernando Muslera",
+      "appearances": "N.A",
+      "savePercentage": "N.A",
+      "cleanSheets": "N.A"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Jose Maria Gimenez",
+          "playerDob": "January 20, 1995",
+          "position": "DF",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Mathias Olivera",
+          "playerDob": "October 31, 1997",
+          "position": "DF",
+          "club": "Napoli",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Guillermo Varela",
+          "playerDob": "March 24, 1993",
+          "position": "DF",
+          "club": "Flamengo",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Matias Vecino",
+          "playerDob": "August 24, 1991",
+          "position": "MF",
+          "club": "Lazio",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Rodrigo Bentancur",
+          "playerDob": "June 25, 1997",
+          "position": "MF",
+          "club": "Tottenham Hotspur",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Federico Valverde",
+          "playerDob": "July 22, 1998",
+          "position": "MF",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Edinson Cavani",
+          "playerDob": "February 14, 1987",
+          "position": "FW",
+          "club": "Valencia",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Darwin Nunez",
+          "playerDob": "June 24, 1999",
+          "position": "FW",
+          "club": "Liverpool",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Facundo Pellistri",
+          "playerDob": "December 20, 2001",
+          "position": "FW",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Rodrigo Bentancur",
+          "playerDob": "June 25, 1997",
+          "position": "MF",
+          "club": "Tottenham Hotspur",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "duels": "11.35"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Rodrigo Bentancur",
+          "playerDob": "June 25, 1997",
+          "position": "MF",
+          "club": "Tottenham Hotspur",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "2.94"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Rodrigo Bentancur",
+          "playerDob": "June 25, 1997",
+          "position": "MF",
+          "club": "Tottenham Hotspur",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "successfulTackles": "3.79"
+    }
+  },
+  {
+    "teamName": "Ecuador ",
+    "teamTotalGoals": 4,
+    "fifaRanking": 41,
+    "nationalTeamKitSponsor": "Marathon",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Enner Valencia",
+          "playerDob": "November 4, 1989",
+          "position": "FW",
+          "club": "Fenerbahce",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goals": "3"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Felix Torres",
+          "playerDob": "January 11, 1997",
+          "position": "DF",
+          "club": "Santos Laguna",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Angelo Preciado",
+          "playerDob": "February 18 1998",
+          "position": "DF",
+          "club": "Genk",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Gonzalo Plata",
+          "playerDob": "November 1, 2000",
+          "position": "MF",
+          "club": "Real Valladolid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "4.00"
+    },
+    "goalKeeper": {
+      "playerName": "Hernan Galindez",
+      "appearances": "N.A",
+      "savePercentage": "N.A",
+      "cleanSheets": "N.A"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Felix Torres",
+          "playerDob": "January 11, 1997",
+          "position": "DF",
+          "club": "Santos Laguna",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Piero Hincapie",
+          "playerDob": "January 9, 2002",
+          "position": "DF",
+          "club": "Bayer Leverkusen",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Pervis Estupinan",
+          "playerDob": "January 21, 1998",
+          "position": "DF",
+          "club": "Brighton",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Angelo Preciado",
+          "playerDob": "February 18 1998",
+          "position": "DF",
+          "club": "Genk",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jeremy Sarmiento",
+          "playerDob": "June 16, 2002",
+          "position": "MF",
+          "club": "Brighton",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Gonzalo Plata",
+          "playerDob": "November 1, 2000",
+          "position": "MF",
+          "club": "Real Valladolid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Moises Caicedo",
+          "playerDob": "November 2, 2001",
+          "position": "MF",
+          "club": "Brighton",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Michael Estrada",
+          "playerDob": "April 7, 1996",
+          "position": "FW",
+          "club": "Cruz Azul",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Enner Valencia",
+          "playerDob": "November 4, 1989",
+          "position": "FW",
+          "club": "Fenerbahce",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Gonzalo Plata",
+          "playerDob": "November 1, 2000",
+          "position": "MF",
+          "club": "Real Valladolid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "duels": "7.67"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Jackson Porozo",
+          "playerDob": "August 4, 2000",
+          "position": "DF",
+          "club": "Troyes",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "interceptions": "2.84"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Carlos Gruezo",
+          "playerDob": "April 19, 1995",
+          "position": "MF",
+          "club": "FC Augsburg",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "3.91"
+    }
+  },
+  {
+    "teamName": "Denmark",
+    "teamTotalGoals": 1,
+    "fifaRanking": 18,
+    "nationalTeamKitSponsor": "Hummel",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Andreas Christensen",
+          "playerDob": "Apr 10, 1996",
+          "position": "DF",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Joachim Andersen",
+          "playerDob": "May 31, 1996",
+          "position": "DF",
+          "club": "Crystal Palace",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Jesper Lindstrom",
+          "playerDob": "Feb 29, 2000",
+          "position": "FW",
+          "club": "Eintracht Frankfurt",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "5.40"
+    },
+    "goalKeeper": {
+      "playerName": "Kasper Schmeichel",
+      "appearances": "3",
+      "savePercentage": "72.73%",
+      "cleanSheets": "33%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Rasmus Kristensen",
+          "playerDob": "July 11, 1997",
+          "position": "DF",
+          "club": "Leeds United",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Joakim Maehle",
+          "playerDob": "May 20, 1997",
+          "position": "DF",
+          "club": "Atalanta",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Joachim Andersen",
+          "playerDob": "May 31, 1996",
+          "position": "DF",
+          "club": "Crystal Palace",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Christian Eriksen",
+          "playerDob": "Feb 14, 1992",
+          "position": "MF",
+          "club": "Manchester United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Pierre-Emile Hojbjerg",
+          "playerDob": "Aug 5, 1995",
+          "position": "MF",
+          "club": "Tottenham",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Andreas Cornelius",
+          "playerDob": "Mar 16, 1993",
+          "position": "FW",
+          "club": "Copenhagen",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Kasper Dolberg",
+          "playerDob": "Oct 6, 1997",
+          "position": "FW",
+          "club": "Sevilla",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Mikkel Damsgaard",
+          "playerDob": "Jul 3, 2000",
+          "position": "FW",
+          "club": "Brentford",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jesper Lindstrom",
+          "playerDob": "Feb 29, 2000",
+          "position": "FW",
+          "club": "Eintracht Frankfurt",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Kasper Schmeichel",
+          "playerDob": "Nov 5, 1986",
+          "position": "GK",
+          "club": "Nice",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Andreas Christensen",
+          "playerDob": "Apr 10, 1996",
+          "position": "DF",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Victor Nelsson",
+          "playerDob": "Oct 14, 1998",
+          "position": "DF",
+          "club": "Galatasaray",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "duels": "10.00"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Simon Kjaer",
+          "playerDob": "Mar 26, 1989",
+          "position": "DF",
+          "club": "AC Milan",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "interceptions": "6.92"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Rasmus Kristensen",
+          "playerDob": "July 11, 1997",
+          "position": "DF",
+          "club": "Leeds United",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "successfulTackles": "3.58"
+    }
+  },
+  {
+    "teamName": "Australia",
+    "teamTotalGoals": 3,
+    "fifaRanking": 27,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Mathew Leckie",
+          "playerDob": "Feb 4, 1991",
+          "position": "FW",
+          "club": "Melbourne City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Mitchell Duke",
+          "playerDob": "Jan 18, 1991",
+          "position": "FW",
+          "club": "Fagiano Okayama",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Craig Goodwin",
+          "playerDob": "Dec 16, 1991",
+          "position": "FW",
+          "club": "Adelaide United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Riley McGree",
+          "playerDob": "Nov 2, 1998",
+          "position": "MF",
+          "club": "Middlesbrough",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Mathew Leckie",
+          "playerDob": "Feb 4, 1991",
+          "position": "FW",
+          "club": "Melbourne City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Ajdin Hrustic",
+          "playerDob": "Jul 5, 1996",
+          "position": "MF",
+          "club": "Hellas Verona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "dribbles": "6.10"
+    },
+    "goalKeeper": {
+      "playerName": "Mat Ryan",
+      "appearances": "4",
+      "savePercentage": "66.67%",
+      "cleanSheets": "50%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Mat Ryan",
+          "playerDob": "Apr 8, 1992",
+          "position": "GK",
+          "club": "Copenhagen",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Aziz Behic",
+          "playerDob": "Oct 16, 1990",
+          "position": "DF",
+          "club": "Dundee United",
+          "brandSponsorAndUsed": "Mizuno",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Milos Degenek",
+          "playerDob": "Apr 28, 1994",
+          "position": "DF",
+          "club": "Columbus Crew",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Harry Souttar",
+          "playerDob": "Oct 22, 1998",
+          "position": "DF",
+          "club": "Stoke City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Kye Rowles",
+          "playerDob": "Jun 24, 1998",
+          "position": "DF",
+          "club": "Hearts",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Aaron Mooy",
+          "playerDob": "Sep 15, 1990",
+          "position": "MF",
+          "club": "Celtic",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Jackson Irvine",
+          "playerDob": "Mar 7, 1993",
+          "position": "MF",
+          "club": "St Pauli",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Riley McGree",
+          "playerDob": "Nov 2, 1998",
+          "position": "MF",
+          "club": "Middlesbrough",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Keanu Baccus",
+          "playerDob": "Jun 7, 1998",
+          "position": "MF",
+          "club": "St Mirren",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Mathew Leckie",
+          "playerDob": "Feb 4, 1991",
+          "position": "FW",
+          "club": "Melbourne City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Mitchell Duke",
+          "playerDob": "Jan 18, 1991",
+          "position": "FW",
+          "club": "Fagiano Okayama",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Craig Goodwin",
+          "playerDob": "Dec 16, 1991",
+          "position": "FW",
+          "club": "Adelaide United",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "appearances": "4"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Milos Degenek",
+          "playerDob": "Apr 28, 1994",
+          "position": "DF",
+          "club": "Columbus Crew",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        }
+      ],
+      "duels": "11.93"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Awer Mabil",
+          "playerDob": "Sep 15, 1995",
+          "position": "FW",
+          "club": "Cadiz",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "interceptions": "4.09"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Nathaniel Atkinson",
+          "playerDob": "Jun 13, 1999",
+          "position": "DF",
+          "club": "Hearts",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "4.24"
+    }
+  },
+  {
+    "teamName": "Spain",
+    "teamTotalGoals": 10,
+    "fifaRanking": 10,
+    "nationalTeamKitSponsor": "Adidas",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Alvaro Morata",
+          "playerDob": "October 23, 1992",
+          "position": "FW",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        }
+      ],
+      "goals": "3"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Jordi Alba",
+          "playerDob": "March 21, 1989",
+          "position": "DF",
+          "club": "FC Barcelona",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "2"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Nico Williams",
+          "playerDob": "July 12, 2002",
+          "position": "FW",
+          "club": "Athletic Club",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "dribbles": "8.07"
+    },
+    "goalKeeper": {
+      "playerName": "Unai Simon",
+      "appearances": "4",
+      "savePercentage": "66.67%",
+      "cleanSheets": "50%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Unai Simon",
+          "playerDob": "June 11, 1997",
+          "position": "GK",
+          "club": "Athletic Club",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Jordi Alba",
+          "playerDob": "March 21, 1989",
+          "position": "DF",
+          "club": "FC Barcelona",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Alejandro Balde",
+          "playerDob": "October 18, 2003",
+          "position": "DF",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Sergio Busquets",
+          "playerDob": "July 16, 1988",
+          "position": "MF",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Pedri",
+          "playerDob": "November 25, 2002",
+          "position": "MF",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Rodri",
+          "playerDob": "June 22, 1996",
+          "position": "MF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Gavi",
+          "playerDob": "August 5, 2004",
+          "position": "MF",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Alvaro Morata",
+          "playerDob": "October 23, 1992",
+          "position": "FW",
+          "club": "Atletico Madrid",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Ferran Torres",
+          "playerDob": "February 29, 2000",
+          "position": "FW",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Marco Asensio",
+          "playerDob": "January 21, 1996",
+          "position": "FW",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Dani Olmo",
+          "playerDob": "May 7, 1998",
+          "position": "FW",
+          "club": "RB Leipzig",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Nico Williams",
+          "playerDob": "July 12, 2002",
+          "position": "FW",
+          "club": "Athletic Club",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "appearances": "4"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Gavi",
+          "playerDob": "August 5, 2004",
+          "position": "MF",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "duels": "8.78"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Dani Carvajal",
+          "playerDob": "January 11, 1992",
+          "position": "DF",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "interceptions": "1.34"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Alejandro Balde",
+          "playerDob": "October 18, 2003",
+          "position": "DF",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "successfulTackles": "4.35"
+    }
+  },
+  {
+    "teamName": "Senegal",
+    "teamTotalGoals": 5,
+    "fifaRanking": 19,
+    "nationalTeamKitSponsor": "Puma",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Kalidou Koulibaly",
+          "playerDob": "June 20, 1991",
+          "position": "DF",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Boulaye Dia",
+          "playerDob": "November 16, 1996",
+          "position": "FW",
+          "club": "Salernitana",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Ismalia Sarr",
+          "playerDob": "February 25, 1998",
+          "position": "FW",
+          "club": "Watford",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Bamba Dieng",
+          "playerDob": "March 23, 2000",
+          "position": "FW",
+          "club": "Marseille",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Famara Diedhiou",
+          "playerDob": "December 15, 1992",
+          "position": "FW",
+          "club": "Alanyaspor",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "2"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Ismail Jakobs",
+          "playerDob": "August 17, 1999",
+          "position": "DF",
+          "club": "AS Monaco",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Iliman Ndiaye",
+          "playerDob": "March 6, 2000",
+          "position": "FW",
+          "club": "Sheffield United",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Iliman Ndiaye",
+          "playerDob": "March 6, 2000",
+          "position": "FW",
+          "club": "Sheffield United",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "4.60"
+    },
+    "goalKeeper": {
+      "playerName": "Edouard Mendy",
+      "appearances": "4",
+      "savePercentage": "50%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Edouard Mendy",
+          "playerDob": "March 1, 1992",
+          "position": "GK",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Kalidou Koulibaly",
+          "playerDob": "June 20, 1991",
+          "position": "DF",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Abdou Diallo",
+          "playerDob": "May 4, 1996",
+          "position": "DF",
+          "club": "RB Leipzig",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Ismail Jakobs",
+          "playerDob": "August 17, 1999",
+          "position": "DF",
+          "club": "AS Monaco",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Youssouf Sabaly",
+          "playerDob": "March 5, 1993",
+          "position": "DF",
+          "club": "Real Betis",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Nampalys Mendy",
+          "playerDob": "June 23, 1992",
+          "position": "MF",
+          "club": "Leicester City",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Boulaye Dia",
+          "playerDob": "November 16, 1996",
+          "position": "FW",
+          "club": "Salernitana",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Ismalia Sarr",
+          "playerDob": "February 25, 1998",
+          "position": "FW",
+          "club": "Watford",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Bamba Dieng",
+          "playerDob": "March 23, 2000",
+          "position": "FW",
+          "club": "Marseille",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        }
+      ],
+      "appearances": "4"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Ismalia Sarr",
+          "playerDob": "February 25, 1998",
+          "position": "FW",
+          "club": "Watford",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "duels": "11.77"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Papa Abou Cisse",
+          "playerDob": "September 14, 1995",
+          "position": "DF",
+          "club": "Olympiacos",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "2"
+        }
+      ],
+      "interceptions": "1.76"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Pape Matar Sarr",
+          "playerDob": "September 14, 2002",
+          "position": "MF",
+          "club": "Tottenham Hotspur",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "0"
+        }
+      ],
+      "successfulTackles": "4.82"
+    }
+  },
+  {
+    "teamName": "Canada",
+    "teamTotalGoals": 1,
+    "fifaRanking": 53,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Alphonso Davies",
+          "playerDob": "Nov 2, 2000",
+          "position": "FW",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goals": "1"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Tajon Buchanan",
+          "playerDob": "Feb 8, 1999",
+          "position": "FW",
+          "club": "Club Brugge",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Tajon Buchanan",
+          "playerDob": "Feb 8, 1999",
+          "position": "FW",
+          "club": "Club Brugge",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "6.21"
+    },
+    "goalKeeper": {
+      "playerName": "Milan Borjan",
+      "appearances": "3",
+      "savePercentage": "53.33%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Milan Borjan",
+          "playerDob": "Oct 23, 1987",
+          "position": "GK",
+          "club": "Red Star Belgrade",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Alistair Johnson",
+          "playerDob": "Oct 8, 1998",
+          "position": "DF",
+          "club": "Celtic",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Sam Adekugbe",
+          "playerDob": "Jan 16, 1995",
+          "position": "DF",
+          "club": "Hatayspor",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Kamal Miller",
+          "playerDob": "May 16, 1997",
+          "position": "DF",
+          "club": "Montreal Impact",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Steven Vitória",
+          "playerDob": "Jan 11, 1987",
+          "position": "DF",
+          "club": "GD Chaves",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Richie Laryea",
+          "playerDob": "Jan 7, 1995",
+          "position": "DF",
+          "club": "Toronto",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Atiba Hutchinson",
+          "playerDob": "Feb 8, 1983",
+          "position": "MF",
+          "club": "Besiktas",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ismael Kone",
+          "playerDob": "Jun 6, 2002",
+          "position": "MF",
+          "club": "Watford",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Junior Hoilett",
+          "playerDob": "Jun 5, 1990",
+          "position": "FW",
+          "club": "Reading",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Tajon Buchanan",
+          "playerDob": "Feb 8, 1999",
+          "position": "FW",
+          "club": "Club Brugge",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Cyle Larin",
+          "playerDob": "Apr 17, 1995",
+          "position": "FW",
+          "club": "Club Brugge",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Alphonso Davies",
+          "playerDob": "Nov 2, 2000",
+          "position": "FW",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jonathan David",
+          "playerDob": "Jan 14, 2000",
+          "position": "FW",
+          "club": "Lille",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Atiba Hutchinson",
+          "playerDob": "Feb 8, 1983",
+          "position": "MF",
+          "club": "Besiktas",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "duels": "9.56"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Stephen Eustaquio",
+          "playerDob": "Dec 21, 1996",
+          "position": "MF",
+          "club": "Porto",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "interceptions": "1.42"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Junior Hoilett",
+          "playerDob": "Jun 5, 1990",
+          "position": "FW",
+          "club": "Reading",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "successfulTackles": "4.44"
+    }
+  },
+  {
+    "teamName": "Germany",
+    "teamTotalGoals": 6,
+    "fifaRanking": 14,
+    "nationalTeamKitSponsor": "Adidas",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Kai Havertz",
+          "playerDob": "Jun 11, 1999",
+          "position": "MF",
+          "club": "Chelsea",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Niclas Fullkrug",
+          "playerDob": "Feb 9, 1993",
+          "position": "FW",
+          "club": "Werder Bremen",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "David Raum",
+          "playerDob": "Apr 22, 1998",
+          "position": "DF",
+          "club": "RB Leipzig",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jamal Musiala",
+          "playerDob": "Feb 26, 2003",
+          "position": "MF",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Leroy Sane",
+          "playerDob": "Jan 11, 1996",
+          "position": "FW",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        },
+        {
+          "playerName": "Serge Gnabry",
+          "playerDob": "Jul 14, 1995",
+          "position": "FW",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Niclas Fullkrug",
+          "playerDob": "Feb 9, 1993",
+          "position": "FW",
+          "club": "Werder Bremen",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Jamal Musiala",
+          "playerDob": "Feb 26, 2003",
+          "position": "MF",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "dribbles": "10.08"
+    },
+    "goalKeeper": {
+      "playerName": "Manuel Neuer",
+      "appearances": "3",
+      "savePercentage": "61.54%",
+      "cleanSheets": "0%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Manuel Neuer",
+          "playerDob": "Mar 27, 1986",
+          "position": "GK",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Antonio Rudiger",
+          "playerDob": "Mar 3, 1993",
+          "position": "DF",
+          "club": "Real Madrid",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Niklas Sule",
+          "playerDob": "Sep 3, 1995",
+          "position": "DF",
+          "club": "Borussia Dortmund",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "David Raum",
+          "playerDob": "Apr 22, 1998",
+          "position": "DF",
+          "club": "RB Leipzig",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Joshua Kimmich",
+          "playerDob": "Feb 8, 1995",
+          "position": "MF",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Ilkay Gundogan",
+          "playerDob": "Oct 24, 1990",
+          "position": "MF",
+          "club": "Manchester City",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Leon Goretzka",
+          "playerDob": "Feb 6, 1995",
+          "position": "MF",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Jamal Musiala",
+          "playerDob": "Feb 26, 2003",
+          "position": "MF",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Thomas Muller",
+          "playerDob": "Sep 13, 1989",
+          "position": "FW",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Serge Gnabry",
+          "playerDob": "Jul 14, 1995",
+          "position": "FW",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        },
+        {
+          "playerName": "Niclas Fullkrug",
+          "playerDob": "Feb 9, 1993",
+          "position": "FW",
+          "club": "Werder Bremen",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "appearances": "3"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Niclas Fullkrug",
+          "playerDob": "Feb 9, 1993",
+          "position": "FW",
+          "club": "Werder Bremen",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "3"
+        }
+      ],
+      "duels": "13.63"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Serge Gnabry",
+          "playerDob": "Jul 14, 1995",
+          "position": "FW",
+          "club": "Bayern Munich",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "3"
+        }
+      ],
+      "interceptions": "68.00"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Thilo Kehrer",
+          "playerDob": "Sep 21, 1996",
+          "position": "DF",
+          "club": "West Ham",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "7.71"
+    }
+  },
+  {
+    "teamName": "Poland ",
+    "teamTotalGoals": 3,
+    "fifaRanking": 22,
+    "nationalTeamKitSponsor": "Nike",
+    "topScorers": {
+      "players": [
+        {
+          "playerName": "Robert Lewandowski",
+          "playerDob": "August 21, 1988",
+          "position": "FW",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goals": "2"
+    },
+    "bestPassers": {
+      "players": [
+        {
+          "playerName": "Robert Lewandowski",
+          "playerDob": "August 21, 1988",
+          "position": "FW",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "goalAssists": "1"
+    },
+    "bestDribblers": {
+      "players": [
+        {
+          "playerName": "Nicola Zalewski",
+          "playerDob": "January 23, 2002",
+          "position": "DF",
+          "club": "Roma",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "2"
+        }
+      ],
+      "dribbles": "2.77"
+    },
+    "goalKeeper": {
+      "playerName": "Wojciech Szczesny",
+      "appearances": "4",
+      "savePercentage": "82.14%",
+      "cleanSheets": "50%"
+    },
+    "playersMostAppearances": {
+      "players": [
+        {
+          "playerName": "Wojciech Szczesny",
+          "playerDob": "April 15, 1990",
+          "position": "GK",
+          "club": "Juventus",
+          "brandSponsorAndUsed": "New Balance",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Kamil Glik",
+          "playerDob": "February 3, 1988",
+          "position": "DF",
+          "club": "Benevento",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Jakub Kiwior",
+          "playerDob": "February 15, 2000",
+          "position": "DF",
+          "club": "Spezia",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Bartosz Bereszynski",
+          "playerDob": "July 12, 1992",
+          "position": "DF",
+          "club": "Sampdoria",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Matty Cash",
+          "playerDob": "August 7, 1997",
+          "position": "DF",
+          "club": "Aston Villa",
+          "brandSponsorAndUsed": "Under Armour",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Krystian Bielik",
+          "playerDob": "January 4, 1998",
+          "position": "MF",
+          "club": "Birmingham City",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Przemyslaw Frankowski",
+          "playerDob": "April 12, 1995",
+          "position": "MF",
+          "club": "Lens",
+          "brandSponsorAndUsed": "Puma",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Grzegorz Krychowiak",
+          "playerDob": "January 29, 1990",
+          "position": "MF",
+          "club": "Al-Shabab",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Jakub Kaminski",
+          "playerDob": "June 5, 2002",
+          "position": "MF",
+          "club": "Wolfsburg",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Piotr Zielinski",
+          "playerDob": "May 20, 1994",
+          "position": "MF",
+          "club": "Napoli",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        },
+        {
+          "playerName": "Robert Lewandowski",
+          "playerDob": "August 21, 1988",
+          "position": "FW",
+          "club": "Barcelona",
+          "brandSponsorAndUsed": "Nike",
+          "appearances": "4"
+        }
+      ],
+      "appearances": "4"
+    },
+    "playersMostDuelsWon": {
+      "players": [
+        {
+          "playerName": "Krzysztof Piatek",
+          "playerDob": "July 1, 1995",
+          "position": "FW",
+          "club": "Salernitana",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "2"
+        }
+      ],
+      "duels": "17.30"
+    },
+    "playersMostInterception": {
+      "players": [
+        {
+          "playerName": "Karol Swiderski",
+          "playerDob": "January 23, 1997",
+          "position": "FW",
+          "club": "Charlotte FC",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "interceptions": "3.91"
+    },
+    "playersMostSuccessfulTackles": {
+      "players": [
+        {
+          "playerName": "Karol Swiderski",
+          "playerDob": "January 23, 1997",
+          "position": "FW",
+          "club": "Charlotte FC",
+          "brandSponsorAndUsed": "Adidas",
+          "appearances": "1"
+        }
+      ],
+      "successfulTackles": "7.83"
+    }
+  }
+]

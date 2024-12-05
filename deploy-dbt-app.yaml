@@ -1,0 +1,39 @@
+steps:
+  - name: google/cloud-sdk:502.0.0-slim
+    script: |
+      echo --------------------------------------------------------------
+      echo Deploying the Cloud Run job $JOB_NAME in Artifact Registry...
+      echo --------------------------------------------------------------
+      
+      IMAGE_PATH="$LOCATION-docker.pkg.dev/$PROJECT_ID/$REPO_NAME/$JOB_NAME:$IMAGE_TAG"
+      
+      gcloud builds submit --tag "$IMAGE_PATH" .
+      
+      gcloud run jobs deploy "$JOB_NAME" \
+        --image "$IMAGE_PATH" \
+        --project="$PROJECT_ID" \
+        --region="$LOCATION" \
+        --service-account="$SERVICE_ACCOUNT" \
+        --max-retries 3
+    env:
+      - 'PROJECT_ID=$PROJECT_ID'
+      - 'LOCATION=$LOCATION'
+      - 'REPO_NAME=$_REPO_NAME'
+      - 'JOB_NAME=$_JOB_NAME'
+      - 'IMAGE_TAG=$_IMAGE_TAG'
+      - 'SERVICE_ACCOUNT=$_SERVICE_ACCOUNT'
+  - name: ghcr.io/dbt-labs/dbt-bigquery:1.8.2
+    script: |
+      echo -----------------------------------------------------------
+      echo Generating the dbt manifest file...
+      echo -----------------------------------------------------------
+
+      dbt compile
+    dir: 'dbt/world_cup_qatar_elt'
+  - name: google/cloud-sdk:502.0.0-slim
+    script: |
+      echo -----------------------------------------------------------
+      echo Copying the dbt manifest file in GCS...
+      echo -----------------------------------------------------------
+
+      gcloud storage cp dbt/world_cup_qatar_elt/target/manifest.json gs://gb-dbt-models/world_cup_qatar_elt/target/manifest.json

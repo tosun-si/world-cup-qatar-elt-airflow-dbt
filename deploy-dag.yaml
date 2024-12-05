@@ -1,0 +1,16 @@
+steps:
+  - name: google/cloud-sdk:502.0.0
+    entrypoint: 'bash'
+    args:
+      - '-c'
+      - |
+        ./scripts/deploy_dag_setup.sh \
+        && ./scripts/deploy_dag_config.sh \
+        && ./scripts/deploy_dag_folder.sh
+    env:
+      - 'PROJECT_ID=$PROJECT_ID'
+      - 'LOCATION=$LOCATION'
+      - 'FEATURE_NAME=$_FEATURE_NAME'
+      - 'COMPOSER_ENVIRONMENT=$_COMPOSER_ENVIRONMENT'
+      - 'CONFIG_FOLDER_NAME=$_CONFIG_FOLDER_NAME'
+      - 'ENV=$_ENV'

@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "world-cup-qatar-elt-dbt"
+version = "0.1.0"
+description = "A real world use case of ELT with DBT and BigQuery, based on Qatar Fifa World Cup Data"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "3.11.2"
+
+[tool.poetry.dev-dependencies]
+dbt-core = "1.8.9"
+dbt-bigquery = "1.8.3"
+apache-airflow = { version = "==2.10.3", extras = ["google"] }
+astronomer-cosmos = "==1.7.1"
+pytest = "8.3.4"

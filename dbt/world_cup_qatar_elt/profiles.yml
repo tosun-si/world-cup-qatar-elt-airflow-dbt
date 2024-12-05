@@ -1,0 +1,12 @@
+world_cup_qatar_elt:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth
+      project: "gb-poc-373711"
+      dataset: "qatar_fifa_world_cup"
+      priority: interactive
+      job_execution_timeout_seconds: 600
+      threads: 4
+      location: europe-west1

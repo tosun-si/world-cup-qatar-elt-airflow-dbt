@@ -1,0 +1,11 @@
+.idea
+target
+*.iml
+.DS_Store
+venv
+.envrc
+*.egg-info
+*.pytest_cache
+__pycache__
+*.user.yml
+logs
