@@ -14,7 +14,16 @@ steps:
         --project="$PROJECT_ID" \
         --region="$LOCATION" \
         --service-account="$SERVICE_ACCOUNT" \
-        --max-retries 3
+        --max-retries 3 \
+        --set-env-vars PROJECT_ID="$PROJECT_ID" \
+        --set-env-vars LOCATION="$LOCATION" \
+        --set-env-vars BIGQUERY_DATASET="$BIGQUERY_DATASET" \
+        --set-env-vars GCP_REGION="$GCP_REGION" \
+        --set-env-vars BIGQUERY_PRIORITY="$BIGQUERY_PRIORITY" \
+        --set-env-vars BIGQUERY_THREADS="$BIGQUERY_THREADS" \
+        --set-env-vars BIGQUERY_TIMEOUT="$BIGQUERY_TIMEOUT" \
+        --set-env-vars BIGQUERY_JOB_RETRIES="$BIGQUERY_JOB_RETRIES" \
+        --set-env-vars GCP_AUTH_METHOD="$GCP_AUTH_METHOD"
     env:
       - 'PROJECT_ID=$PROJECT_ID'
       - 'LOCATION=$LOCATION'
@@ -22,18 +31,8 @@ steps:
       - 'JOB_NAME=$_JOB_NAME'
       - 'IMAGE_TAG=$_IMAGE_TAG'
       - 'SERVICE_ACCOUNT=$_SERVICE_ACCOUNT'
-  - name: ghcr.io/dbt-labs/dbt-bigquery:1.8.2
-    script: |
-      echo -----------------------------------------------------------
-      echo Generating the dbt manifest file...
-      echo -----------------------------------------------------------
-
-      dbt compile
-    dir: 'dbt/world_cup_qatar_elt'
-  - name: google/cloud-sdk:502.0.0-slim
-    script: |
-      echo -----------------------------------------------------------
-      echo Copying the dbt manifest file in GCS...
-      echo -----------------------------------------------------------
-
-      gcloud storage cp dbt/world_cup_qatar_elt/target/manifest.json gs://gb-dbt-models/world_cup_qatar_elt/target/manifest.json
+      - 'GCP_AUTH_METHOD=$_GCP_AUTH_METHOD'
+      - 'BIGQUERY_DATASET=$_BIGQUERY_DATASET'
+      - 'BIGQUERY_PRIORITY=$_BIGQUERY_PRIORITY'
+      - 'BIGQUERY_TIMEOUT=$_BIGQUERY_TIMEOUT'
+      - 'BIGQUERY_THREADS=$_BIGQUERY_THREADS'

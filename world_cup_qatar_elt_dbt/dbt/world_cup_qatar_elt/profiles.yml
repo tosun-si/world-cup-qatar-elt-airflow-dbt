@@ -1,0 +1,12 @@
+world_cup_qatar_elt:
+  target: dev
+  outputs:
+    dev:
+      type: bigquery
+      method: '{{ env_var(''GCP_AUTH_METHOD'') }}'
+      project: '{{ env_var(''GCP_PROJECT_ID'') }}'
+      location: '{{ env_var(''GCP_REGION'') }}'
+      dataset: '{{ env_var(''BIGQUERY_DATASET'') }}'
+      priority: '{{ env_var(''BIGQUERY_PRIORITY'') }}'
+      job_execution_timeout_seconds: '{{ env_var(''BIGQUERY_TIMEOUT'') | int }}'
+      threads: '{{ env_var(''BIGQUERY_THREADS'') | int }}'

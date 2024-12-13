@@ -1,6 +1,10 @@
 {
   "world_cup_qatar_elt_dbt": {
     "feature_name": "world_cup_qatar_elt_dbt",
+    "dbt_dag1_id": "world_cup_qatar_elt_dag",
+    "dbt_dag2_id": "world_cup_qatar_elt_dag2",
+    "cloud_run_job_name_dag1": "world-cup-qatar-elt-dbt",
+    "cloud_run_job_name_dag2": "world-cup-qatar-elt-airflow-dbt",
     "team_stats_raw_create_disposition": "CREATE_NEVER",
     "team_stats_raw_write_disposition": "WRITE_TRUNCATE",
     "dataset": "qatar_fifa_world_cup",
@@ -11,8 +15,6 @@
     "team_stats_raw_table": "team_players_stat_raw",
     "team_stats_raw_table_schema_bucket": "mazlum_dev",
     "team_stats_raw_table_schema_object": "world_cup_team_stats/bq_schema/raw_bq_schema.json",
-    "team_stats_table": "team_players_stat",
-    "cloud_run_job_name_dag1": "world_cup_qatar_elt_job",
-    "cloud_run_job_name_dag2": "world-cup-qatar-elt-airflow-dbt"
+    "team_stats_table": "team_players_stat"
   }
 }

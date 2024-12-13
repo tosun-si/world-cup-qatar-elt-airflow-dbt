@@ -1,3 +1,6 @@
+import os
+from pathlib import Path
+
 import airflow
 from airflow.providers.google.cloud.transfers.gcs_to_bigquery import GCSToBigQueryOperator
 from airflow.providers.google.cloud.transfers.gcs_to_gcs import GCSToGCSOperator
@@ -9,9 +12,11 @@ settings = Settings()
 from cosmos import DbtTaskGroup, ProjectConfig, ExecutionConfig
 from cosmos.constants import ExecutionMode
 
+DEFAULT_DBT_ROOT_PATH = Path(__file__).parent.parent / "dbt"
+DBT_ROOT_PATH = Path(os.getenv("DBT_ROOT_PATH", DEFAULT_DBT_ROOT_PATH))
+
 project_config = ProjectConfig(
-    project_name="world_cup_qatar_elt",
-    manifest_path="gs://gb-dbt-models/world_cup_qatar_elt/target/manifest.json",
+    dbt_project_path=(DBT_ROOT_PATH / "world_cup_qatar_elt").as_posix(),
 )
 
 execution_config = ExecutionConfig(
@@ -19,7 +24,7 @@ execution_config = ExecutionConfig(
 )
 
 with airflow.DAG(
-        "world_cup_qatar_elt_dag2",
+        settings.dbt_dag2_id,
         default_args=settings.dag_default_args,
         schedule_interval=None) as dag:
     load_team_stats_raw_to_bq = GCSToBigQueryOperator(
@@ -45,7 +50,7 @@ with airflow.DAG(
             "region": settings.location,
             "job_name": settings.cloud_run_job_name_dag2,
         },
-        default_args={"retries": 2},
+        default_args={"retries": 0},
         dag=dag,
     )
 

@@ -22,7 +22,7 @@ class Settings:
         "start_date": days_ago(1)
     }
     project_id = os.getenv("GCP_PROJECT")
-    location = os.getenv("GCP_REGION")
+    location = os.getenv("COMPOSER_LOCATION")
 
     dataset = _variables["dataset"]
     team_stats_raw_table = _variables["team_stats_raw_table"]
@@ -34,6 +34,9 @@ class Settings:
     team_stats_source_object = _variables["team_stats_source_object"]
     team_stats_dest_bucket = _variables["team_stats_dest_bucket"]
     team_stats_dest_object = _variables["team_stats_dest_object"]
+
+    dbt_dag1_id = _variables["dbt_dag1_id"]
+    dbt_dag2_id = _variables["dbt_dag2_id"]
 
     cloud_run_job_name_dag1 = _variables["cloud_run_job_name_dag1"]
     cloud_run_job_name_dag2 = _variables["cloud_run_job_name_dag2"]

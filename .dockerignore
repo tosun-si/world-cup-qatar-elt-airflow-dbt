@@ -4,9 +4,9 @@
 /dags_setup
 /config
 /diagram
-/dbt/logs
-/dbt/target
-/dbt/.user.yml
+/world_cup_qatar_elt_dbt/dbt/logs
+/world_cup_qatar_elt_dbt/dbt/target
+/world_cup_qatar_elt_dbt/dbt/.user.yml
 /scripts
 /.dockerignore
 /.gitignore
@@ -15,7 +15,6 @@
 /LICENSE
 /pyproject.toml
 /poetry.lock
-/world_cup_qatar_elt_dbt
 /deploy-dag.yaml
 /deploy-dbt-app-cloud-run-job.yaml
 /*.md
