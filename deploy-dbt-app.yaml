@@ -15,14 +15,12 @@ steps:
         --region="$LOCATION" \
         --service-account="$SERVICE_ACCOUNT" \
         --max-retries 3 \
-        --set-env-vars PROJECT_ID="$PROJECT_ID" \
-        --set-env-vars LOCATION="$LOCATION" \
+        --set-env-vars GCP_PROJECT_ID="$PROJECT_ID" \
+        --set-env-vars GCP_REGION="$LOCATION" \
         --set-env-vars BIGQUERY_DATASET="$BIGQUERY_DATASET" \
-        --set-env-vars GCP_REGION="$GCP_REGION" \
         --set-env-vars BIGQUERY_PRIORITY="$BIGQUERY_PRIORITY" \
         --set-env-vars BIGQUERY_THREADS="$BIGQUERY_THREADS" \
         --set-env-vars BIGQUERY_TIMEOUT="$BIGQUERY_TIMEOUT" \
-        --set-env-vars BIGQUERY_JOB_RETRIES="$BIGQUERY_JOB_RETRIES" \
         --set-env-vars GCP_AUTH_METHOD="$GCP_AUTH_METHOD"
     env:
       - 'PROJECT_ID=$PROJECT_ID'
