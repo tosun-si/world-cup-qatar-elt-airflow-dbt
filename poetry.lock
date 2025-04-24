@@ -767,19 +767,20 @@ tests = ["mypy (>=0.800)", "pytest", "pytest-asyncio"]
 
 [[package]]
 name = "astronomer-cosmos"
-version = "1.7.1"
+version = "1.9.2"
 description = "Orchestrate your dbt projects in Airflow"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "astronomer_cosmos-1.7.1-py3-none-any.whl", hash = "sha256:48937a089e452390a985831f85113740f8cb07cfbcff07af2c44a2c93d5d857e"},
-    {file = "astronomer_cosmos-1.7.1.tar.gz", hash = "sha256:434df9a2a46f0a7468a3a4408cb0032c2ef937750a0085ebb05f0f5174f7a5f5"},
+    {file = "astronomer_cosmos-1.9.2-py3-none-any.whl", hash = "sha256:ef312c34847435d40fcdb15baad480a6f6b7d1b795171c016e49348ed115e3a3"},
+    {file = "astronomer_cosmos-1.9.2.tar.gz", hash = "sha256:06d671cf38abb1c5069d1f98f0af9f7ab0b6bba664eb38d38704c2c1254738d6"},
 ]
 
 [package.dependencies]
 aenum = "*"
 apache-airflow = ">=2.4.0"
 attrs = "*"
+deprecation = "*"
 jinja2 = ">=3.0.0"
 msgpack = "*"
 packaging = ">=22.0"
@@ -787,16 +788,18 @@ pydantic = ">=1.10.0"
 virtualenv = "*"
 
 [package.extras]
-all = ["apache-airflow-providers-amazon[s3fs] (>=3.0.0)", "apache-airflow-providers-google", "apache-airflow-providers-microsoft-azure", "dbt-athena", "dbt-bigquery", "dbt-clickhouse", "dbt-databricks", "dbt-exasol", "dbt-postgres", "dbt-redshift", "dbt-snowflake", "dbt-spark", "dbt-teradata", "dbt-vertica", "openlineage-airflow", "openlineage-integration-common (!=1.15.0)"]
+all = ["apache-airflow-providers-amazon[s3fs] (>=3.0.0)", "apache-airflow-providers-google (>=10.17.0)", "apache-airflow-providers-microsoft-azure (>=8.5.0)", "dbt-athena", "dbt-bigquery", "dbt-clickhouse", "dbt-databricks (!=1.9.0)", "dbt-exasol", "dbt-oracle", "dbt-postgres", "dbt-redshift", "dbt-snowflake", "dbt-spark", "dbt-teradata", "dbt-vertica", "gcsfs (<2025.3.0)", "openlineage-airflow", "openlineage-integration-common (!=1.15.0)"]
 amazon = ["apache-airflow-providers-amazon[s3fs] (>=3.0.0)"]
+aws-ecs = ["apache-airflow-providers-amazon (>=8.0.0)"]
 aws-eks = ["apache-airflow-providers-amazon (>=8.0.0)"]
-azure-container-instance = ["apache-airflow-providers-microsoft-azure (>=8.4.0)"]
-dbt-all = ["dbt-athena", "dbt-bigquery", "dbt-clickhouse", "dbt-databricks", "dbt-exasol", "dbt-postgres", "dbt-redshift", "dbt-snowflake", "dbt-spark", "dbt-teradata", "dbt-vertica"]
+azure-container-instance = ["apache-airflow-providers-microsoft-azure (>=8.5.0)"]
+dbt-all = ["dbt-athena", "dbt-bigquery", "dbt-clickhouse", "dbt-databricks (!=1.9.0)", "dbt-exasol", "dbt-oracle", "dbt-postgres", "dbt-redshift", "dbt-snowflake", "dbt-spark", "dbt-teradata", "dbt-vertica"]
 dbt-athena = ["apache-airflow-providers-amazon (>=8.0.0)", "dbt-athena-community"]
 dbt-bigquery = ["dbt-bigquery"]
 dbt-clickhouse = ["dbt-clickhouse"]
 dbt-databricks = ["dbt-databricks"]
 dbt-exasol = ["dbt-exasol"]
+dbt-oracle = ["dbt-oracle"]
 dbt-postgres = ["dbt-postgres"]
 dbt-redshift = ["dbt-redshift"]
 dbt-snowflake = ["dbt-snowflake"]
@@ -806,11 +809,10 @@ dbt-vertica = ["dbt-vertica (<=1.5.4)"]
 docker = ["apache-airflow-providers-docker (>=3.5.0)"]
 docs = ["apache-airflow-providers-cncf-kubernetes (>=5.1.1)", "pydata-sphinx-theme", "sphinx", "sphinx-autoapi", "sphinx-autobuild"]
 gcp-cloud-run-job = ["apache-airflow-providers-google (>=10.11.0)"]
-google = ["apache-airflow-providers-google"]
+google = ["apache-airflow-providers-google (>=10.17.0)", "gcsfs (<2025.3.0)"]
 kubernetes = ["apache-airflow-providers-cncf-kubernetes (>=5.1.1)"]
-microsoft = ["apache-airflow-providers-microsoft-azure"]
+microsoft = ["apache-airflow-providers-microsoft-azure (>=8.5.0)"]
 openlineage = ["openlineage-airflow", "openlineage-integration-common (!=1.15.0)"]
-tests = ["packaging (>=22.0)", "pre-commit", "pytest (>=6.0)", "pytest-cov", "pytest-describe", "pytest-dotenv", "pytest-split", "requests-mock", "sqlalchemy-stubs", "types-pytz", "types-requests"]
 
 [[package]]
 name = "attrs"
@@ -1529,6 +1531,20 @@ wrapt = ">=1.10,<2"
 
 [package.extras]
 dev = ["PyTest", "PyTest-Cov", "bump2version (<1)", "jinja2 (>=3.0.3,<3.1.0)", "setuptools", "sphinx (<2)", "tox"]
+
+[[package]]
+name = "deprecation"
+version = "2.1.0"
+description = "A library to handle automated deprecations"
+optional = false
+python-versions = "*"
+files = [
+    {file = "deprecation-2.1.0-py2.py3-none-any.whl", hash = "sha256:a10811591210e1fb0e768a8c25517cabeabcba6f0bf96564f8ff45189f90b14a"},
+    {file = "deprecation-2.1.0.tar.gz", hash = "sha256:72b3bde64e5d778694b0cf68178aed03d15e15477116add3fb773e581f9518ff"},
+]
+
+[package.dependencies]
+packaging = "*"
 
 [[package]]
 name = "dill"
@@ -6320,4 +6336,4 @@ type = ["pytest-mypy"]
 [metadata]
 lock-version = "2.0"
 python-versions = "3.11.2"
-content-hash = "1b5956f4ec7737bea730caae3abbe096462b2a10f3b6a576b21ebb5f1f7143b2"
+content-hash = "ef385b661d82339d853346af1e3cf128f43f562648c1e22c32d52cfb44f49c18"

@@ -8,7 +8,7 @@ Dbt is deployed in a Cloud Run job, and we present 2 use cases:
 ## Install the Astronomer Cosmos package in Cloud Composer (PyPi package)
 
 ```
-astronomer-cosmos = "==1.7.1"
+astronomer-cosmos = "==1.9.2"
 ```
 
 ## Deploy the dbt app in a Cloud Run job and copy the dbt folder in GCS bucket
