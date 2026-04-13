@@ -8,9 +8,9 @@ from world_cup_qatar_elt_dbt.dag.settings import Settings
 settings = Settings()
 
 with airflow.DAG(
-        settings.dbt_dag1_id,
+        dag_id=settings.dbt_dag1_id,
         default_args=settings.dag_default_args,
-        schedule_interval=None) as dag:
+        schedule=None) as dag:
     load_team_stats_raw_to_bq = GCSToBigQueryOperator(
         task_id='load_team_player_stats_raw_to_bq',
         bucket=settings.team_stats_input_bucket,
@@ -43,4 +43,4 @@ with airflow.DAG(
         move_object=False
     )
 
-    load_team_stats_raw_to_bq >> execute_dbt_job >> move_file_to_cold
+    execute_dbt_job >> move_file_to_cold

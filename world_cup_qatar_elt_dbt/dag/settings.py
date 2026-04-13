@@ -1,9 +1,8 @@
 import os
 from dataclasses import dataclass
-from datetime import timedelta
+from datetime import datetime, timedelta
 
 from airflow.models import Variable
-from airflow.utils.dates import days_ago
 
 _variables = Variable.get("world_cup_qatar_elt_dbt", deserialize_json=True)
 _feature_name = _variables["feature_name"]
@@ -19,7 +18,7 @@ class Settings:
         'email_on_retry': False,
         'retries': 0,
         'retry_delay': timedelta(minutes=5),
-        "start_date": days_ago(1)
+        "start_date": datetime(2024, 1, 1)
     }
     project_id = os.getenv("GCP_PROJECT")
     location = os.getenv("COMPOSER_LOCATION")
