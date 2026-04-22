@@ -11,19 +11,19 @@ with airflow.DAG(
         dag_id=settings.dbt_dag1_id,
         default_args=settings.dag_default_args,
         schedule=None) as dag:
-    load_team_stats_raw_to_bq = GCSToBigQueryOperator(
-        task_id='load_team_player_stats_raw_to_bq',
-        bucket=settings.team_stats_input_bucket,
-        source_objects=[settings.team_stats_source_object],
-        destination_project_dataset_table=f'{settings.project_id}.{settings.dataset}.{settings.team_stats_raw_table}',
-        source_format='NEWLINE_DELIMITED_JSON',
-        compression='NONE',
-        create_disposition=settings.variables['team_stats_raw_create_disposition'],
-        write_disposition=settings.variables['team_stats_raw_write_disposition'],
-        autodetect=False,
-        schema_object_bucket=settings.team_stats_raw_table_schema_bucket,
-        schema_object=settings.team_stats_raw_table_schema_object
-    )
+    # load_team_stats_raw_to_bq = GCSToBigQueryOperator(
+    #     task_id='load_team_player_stats_raw_to_bq',
+    #     bucket=settings.team_stats_input_bucket,
+    #     source_objects=[settings.team_stats_source_object],
+    #     destination_project_dataset_table=f'{settings.project_id}.{settings.dataset}.{settings.team_stats_raw_table}',
+    #     source_format='NEWLINE_DELIMITED_JSON',
+    #     compression='NONE',
+    #     create_disposition=settings.variables['team_stats_raw_create_disposition'],
+    #     write_disposition=settings.variables['team_stats_raw_write_disposition'],
+    #     autodetect=False,
+    #     schema_object_bucket=settings.team_stats_raw_table_schema_bucket,
+    #     schema_object=settings.team_stats_raw_table_schema_object
+    # )
 
     execute_dbt_job = CloudRunExecuteJobOperator(
         task_id="execute_dbt_job",

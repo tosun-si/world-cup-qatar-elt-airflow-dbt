@@ -63,3 +63,17 @@ The entire `world_cup_qatar_elt_dbt` folder is mounted because the Cosmos DAG ne
 dbt deps --project-dir world_cup_qatar_elt_dbt/dbt/world_cup_qatar_elt
 dbt run --project-dir world_cup_qatar_elt_dbt/dbt/world_cup_qatar_elt
 ```
+
+## Deploy the Airflow DAG to Cloud Composer
+
+The DAG folder and its config variables are deployed via Cloud Build (`deploy-dag.yaml`), which invokes `scripts/deploy_dag_config.sh` and `scripts/deploy_dag_folder.sh`:
+
+```bash
+gcloud builds submit \
+    --project=$PROJECT_ID \
+    --region=$LOCATION \
+    --config deploy-dag.yaml \
+    --substitutions _DAG_ROOT_FOLDER=$DAG_ROOT_FOLDER,_COMPOSER_ENVIRONMENT=$COMPOSER_ENVIRONMENT,_CONFIG_FOLDER_NAME=$CONFIG_FOLDER_NAME,_ENV=$ENV
+```
+
+Required env vars (set in `.envrc`): `DAG_ROOT_FOLDER`, `COMPOSER_ENVIRONMENT`, `CONFIG_FOLDER_NAME`, `ENV`.
